@@ -11,3 +11,5 @@ This repository contains the benchmark dataset, ontology schema, and evaluation 
 
 ## Citation
 If you use this benchmark in your research, please cite our paper.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21923390.svg)](https://doi.org/10.5281/zenodo.21923390)
