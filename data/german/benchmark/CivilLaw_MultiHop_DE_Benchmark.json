@@ -1,0 +1,1173 @@
+[
+  {
+    "query_id": "DE-2H-010",
+    "hop_stratum": 2,
+    "query_text": "Wie hat der BGH § 299 BGB ausgelegt?",
+    "gold_evidence_path": [
+      "de-bgh-314",
+      "/akn/de/act/bgb/2024/paragraph/299"
+    ],
+    "failure_mode": "F2",
+    "design_intent": "Decision → provision interpretation chain",
+    "law_codes_involved": [
+      "BGB"
+    ],
+    "court": "BGH",
+    "index": 1
+  },
+  {
+    "query_id": "DE-1H-011",
+    "hop_stratum": 1,
+    "query_text": "Wie definiert § 99 BGB den relevanten Begriff?",
+    "gold_evidence_path": [
+      "/akn/de/act/bgb/2024/paragraph/99"
+    ],
+    "failure_mode": "F3",
+    "design_intent": "Definition lookup in normative text",
+    "law_codes_involved": [
+      "BGB"
+    ],
+    "index": 2
+  },
+  {
+    "query_id": "DE-3H-012",
+    "hop_stratum": 3,
+    "query_text": "Welche BGB-Norm liegt der BVerfG-Entscheidung 2 BvR 667/22 zugrunde und wie verhält sie sich zu § 1882 BGB?",
+    "gold_evidence_path": [
+      "de-bverfg-667",
+      "/akn/de/act/bgb/2024/paragraph/31",
+      "/akn/de/act/bgb/2024/paragraph/1882"
+    ],
+    "failure_mode": "F2",
+    "design_intent": "3-hop: decision → primary norm → related norm",
+    "law_codes_involved": [
+      "BGB"
+    ],
+    "court": "BVerfG",
+    "index": 3
+  },
+  {
+    "query_id": "DE-1H-019",
+    "hop_stratum": 1,
+    "query_text": "Welche Voraussetzungen stellt § 546 BGB auf?",
+    "gold_evidence_path": [
+      "/akn/de/act/bgb/2024/paragraph/546"
+    ],
+    "failure_mode": "F3",
+    "design_intent": "Provision requirement lookup",
+    "law_codes_involved": [
+      "BGB"
+    ],
+    "index": 4
+  },
+  {
+    "query_id": "DE-2H-008",
+    "hop_stratum": 2,
+    "query_text": "Was entschied das BGH zu § 1170 BGB im Jahr 2024?",
+    "gold_evidence_path": [
+      "de-bgh-384",
+      "/akn/de/act/bgb/2024/paragraph/1170"
+    ],
+    "failure_mode": "F1",
+    "design_intent": "Temporal validity check — F1 failure mode",
+    "law_codes_involved": [
+      "BGB"
+    ],
+    "court": "BGH",
+    "index": 5
+  },
+  {
+    "query_id": "DE-1H-010",
+    "hop_stratum": 1,
+    "query_text": "Wie definiert § 1960 BGB den relevanten Begriff?",
+    "gold_evidence_path": [
+      "/akn/de/act/bgb/2024/paragraph/1960"
+    ],
+    "failure_mode": "F3",
+    "design_intent": "Definition lookup in normative text",
+    "law_codes_involved": [
+      "BGB"
+    ],
+    "index": 6
+  },
+  {
+    "query_id": "DE-1H-020",
+    "hop_stratum": 1,
+    "query_text": "Was besagt § 753 ZPO zum Thema Haftung?",
+    "gold_evidence_path": [
+      "/akn/de/act/zpo/2024/paragraph/753"
+    ],
+    "failure_mode": "F4",
+    "design_intent": "Thematic provision lookup with metadata noise potential",
+    "law_codes_involved": [
+      "ZPO"
+    ],
+    "index": 7
+  },
+  {
+    "query_id": "DE-2H-017",
+    "hop_stratum": 2,
+    "query_text": "Welche Norm hat der BGH in I StR 167/22 angewendet?",
+    "gold_evidence_path": [
+      "de-bgh-167",
+      "/akn/de/act/bgb/2024/paragraph/1840"
+    ],
+    "failure_mode": "F3",
+    "design_intent": "Decision to provision reverse lookup",
+    "law_codes_involved": [
+      "BGB"
+    ],
+    "court": "BGH",
+    "index": 8
+  },
+  {
+    "query_id": "DE-2H-031",
+    "hop_stratum": 2,
+    "query_text": "Wie hat der BGH § 251 BGB ausgelegt?",
+    "gold_evidence_path": [
+      "de-bgh-261",
+      "/akn/de/act/bgb/2024/paragraph/251"
+    ],
+    "failure_mode": "F2",
+    "design_intent": "Decision → provision interpretation chain",
+    "law_codes_involved": [
+      "BGB"
+    ],
+    "court": "BGH",
+    "index": 9
+  },
+  {
+    "query_id": "DE-2H-026",
+    "hop_stratum": 2,
+    "query_text": "Wie legt der BGH den Anwendungsbereich von § 1876 BGB aus?",
+    "gold_evidence_path": [
+      "de-bgh-532",
+      "/akn/de/act/bgb/2024/paragraph/1876"
+    ],
+    "failure_mode": "F2",
+    "design_intent": "Hierarchical authority interpretation chain",
+    "law_codes_involved": [
+      "BGB"
+    ],
+    "court": "BGH",
+    "index": 10
+  },
+  {
+    "query_id": "DE-1H-015",
+    "hop_stratum": 1,
+    "query_text": "Was regelt § 858 BGB?",
+    "gold_evidence_path": [
+      "/akn/de/act/bgb/2024/paragraph/858"
+    ],
+    "failure_mode": "F3",
+    "design_intent": "Direct normative unit lookup — tests basic retrieval",
+    "law_codes_involved": [
+      "BGB"
+    ],
+    "index": 11
+  },
+  {
+    "query_id": "DE-3H-009",
+    "hop_stratum": 3,
+    "query_text": "Welche Norm des BGB wird in der BGH-Entscheidung V ZR 482/22 ausgelegt, und welche weitere Norm des BGB wird dabei herangezogen?",
+    "gold_evidence_path": [
+      "de-bgh-482",
+      "/akn/de/act/bgb/2024/paragraph/331",
+      "/akn/de/act/bgb/2024/paragraph/707a"
+    ],
+    "failure_mode": "F1",
+    "design_intent": "3-hop temporal + hierarchy failure mode",
+    "law_codes_involved": [
+      "BGB"
+    ],
+    "court": "BGH",
+    "index": 12
+  },
+  {
+    "query_id": "DE-2H-036",
+    "hop_stratum": 2,
+    "query_text": "Welche Norm hat der BVerfG in 2 BvR 643/22 angewendet?",
+    "gold_evidence_path": [
+      "de-bverfg-643",
+      "/akn/de/act/bgb/2024/paragraph/392"
+    ],
+    "failure_mode": "F3",
+    "design_intent": "Decision to provision reverse lookup",
+    "law_codes_involved": [
+      "BGB"
+    ],
+    "court": "BVerfG",
+    "index": 13
+  },
+  {
+    "query_id": "DE-3H-015",
+    "hop_stratum": 3,
+    "query_text": "Wie verhalten sich § 961 BGB und § 2208 BGB zueinander nach der Rechtsprechung des BGH?",
+    "gold_evidence_path": [
+      "de-bgh-172",
+      "/akn/de/act/bgb/2024/paragraph/961",
+      "/akn/de/act/bgb/2024/paragraph/2208"
+    ],
+    "failure_mode": "F3",
+    "design_intent": "3-hop: norm1 → decision → norm2 citation chain",
+    "law_codes_involved": [
+      "BGB"
+    ],
+    "court": "BGH",
+    "index": 14
+  },
+  {
+    "query_id": "DE-2H-013",
+    "hop_stratum": 2,
+    "query_text": "Was entschied das BGH zu § 931 BGB im Jahr 2022?",
+    "gold_evidence_path": [
+      "de-bgh-573",
+      "/akn/de/act/bgb/2024/paragraph/931"
+    ],
+    "failure_mode": "F1",
+    "design_intent": "Temporal validity check — F1 failure mode",
+    "law_codes_involved": [
+      "BGB"
+    ],
+    "court": "BGH",
+    "index": 15
+  },
+  {
+    "query_id": "DE-2H-016",
+    "hop_stratum": 2,
+    "query_text": "Was entschied das BGH zu § 1142 BGB im Jahr 2023?",
+    "gold_evidence_path": [
+      "de-bgh-423",
+      "/akn/de/act/bgb/2024/paragraph/1142"
+    ],
+    "failure_mode": "F1",
+    "design_intent": "Temporal validity check — F1 failure mode",
+    "law_codes_involved": [
+      "BGB"
+    ],
+    "court": "BGH",
+    "index": 16
+  },
+  {
+    "query_id": "DE-3H-013",
+    "hop_stratum": 3,
+    "query_text": "Welche BGB-Norm liegt der BGH-Entscheidung IX ZR 107/25 zugrunde und wie verhält sie sich zu § 425 BGB?",
+    "gold_evidence_path": [
+      "de-bgh-107",
+      "/akn/de/act/bgb/2024/paragraph/283",
+      "/akn/de/act/zpo/2024/paragraph/425"
+    ],
+    "failure_mode": "F2",
+    "design_intent": "3-hop: decision → primary norm → related norm",
+    "law_codes_involved": [
+      "BGB",
+      "ZPO"
+    ],
+    "court": "BGH",
+    "index": 17
+  },
+  {
+    "query_id": "DE-1H-021",
+    "hop_stratum": 1,
+    "query_text": "Was regelt § 359 BGB?",
+    "gold_evidence_path": [
+      "/akn/de/act/bgb/2024/paragraph/359"
+    ],
+    "failure_mode": "F3",
+    "design_intent": "Direct normative unit lookup — tests basic retrieval",
+    "law_codes_involved": [
+      "BGB"
+    ],
+    "index": 18
+  },
+  {
+    "query_id": "DE-2H-028",
+    "hop_stratum": 2,
+    "query_text": "Wie hat der BGH § 819 BGB ausgelegt?",
+    "gold_evidence_path": [
+      "de-bgh-357",
+      "/akn/de/act/bgb/2024/paragraph/819"
+    ],
+    "failure_mode": "F2",
+    "design_intent": "Decision → provision interpretation chain",
+    "law_codes_involved": [
+      "BGB"
+    ],
+    "court": "BGH",
+    "index": 19
+  },
+  {
+    "query_id": "DE-1H-002",
+    "hop_stratum": 1,
+    "query_text": "Was besagt § 93 BGB zum Thema Haftung?",
+    "gold_evidence_path": [
+      "/akn/de/act/bgb/2024/paragraph/93"
+    ],
+    "failure_mode": "F4",
+    "design_intent": "Thematic provision lookup with metadata noise potential",
+    "law_codes_involved": [
+      "BGB"
+    ],
+    "index": 20
+  },
+  {
+    "query_id": "DE-2H-022",
+    "hop_stratum": 2,
+    "query_text": "Was entschied das BGH zu § 2169 BGB im Jahr 2025?",
+    "gold_evidence_path": [
+      "de-bgh-538",
+      "/akn/de/act/bgb/2024/paragraph/2169"
+    ],
+    "failure_mode": "F1",
+    "design_intent": "Temporal validity check — F1 failure mode",
+    "law_codes_involved": [
+      "BGB"
+    ],
+    "court": "BGH",
+    "index": 21
+  },
+  {
+    "query_id": "DE-2H-011",
+    "hop_stratum": 2,
+    "query_text": "Welche BGH-Entscheidung betrifft § 731 BGB und was sind deren Voraussetzungen?",
+    "gold_evidence_path": [
+      "de-bag-723",
+      "/akn/de/act/bgb/2024/paragraph/731"
+    ],
+    "failure_mode": "F3",
+    "design_intent": "Decision → cited provision multi-hop",
+    "law_codes_involved": [
+      "BGB"
+    ],
+    "court": "BAG",
+    "index": 22
+  },
+  {
+    "query_id": "DE-2H-001",
+    "hop_stratum": 2,
+    "query_text": "Wie hat der BAG § 594 BGB ausgelegt?",
+    "gold_evidence_path": [
+      "de-bag-718",
+      "/akn/de/act/bgb/2024/paragraph/594"
+    ],
+    "failure_mode": "F2",
+    "design_intent": "Decision → provision interpretation chain",
+    "law_codes_involved": [
+      "BGB"
+    ],
+    "court": "BAG",
+    "index": 23
+  },
+  {
+    "query_id": "DE-2H-014",
+    "hop_stratum": 2,
+    "query_text": "Was entschied das BVerfG zu § 368 BGB im Jahr 2023?",
+    "gold_evidence_path": [
+      "de-bverfg-670",
+      "/akn/de/act/bgb/2024/paragraph/368"
+    ],
+    "failure_mode": "F1",
+    "design_intent": "Temporal validity check — F1 failure mode",
+    "law_codes_involved": [
+      "BGB"
+    ],
+    "court": "BVerfG",
+    "index": 24
+  },
+  {
+    "query_id": "DE-1H-014",
+    "hop_stratum": 1,
+    "query_text": "Wie definiert § 1631d BGB den relevanten Begriff?",
+    "gold_evidence_path": [
+      "/akn/de/act/bgb/2024/paragraph/1631d"
+    ],
+    "failure_mode": "F3",
+    "design_intent": "Definition lookup in normative text",
+    "law_codes_involved": [
+      "BGB"
+    ],
+    "index": 25
+  },
+  {
+    "query_id": "DE-1H-006",
+    "hop_stratum": 1,
+    "query_text": "Wie definiert § 327b BGB den relevanten Begriff?",
+    "gold_evidence_path": [
+      "/akn/de/act/bgb/2024/paragraph/327b"
+    ],
+    "failure_mode": "F3",
+    "design_intent": "Definition lookup in normative text",
+    "law_codes_involved": [
+      "BGB"
+    ],
+    "index": 26
+  },
+  {
+    "query_id": "DE-1H-008",
+    "hop_stratum": 1,
+    "query_text": "Was regelt § 112 BGB?",
+    "gold_evidence_path": [
+      "/akn/de/act/bgb/2024/paragraph/112"
+    ],
+    "failure_mode": "F3",
+    "design_intent": "Direct normative unit lookup — tests basic retrieval",
+    "law_codes_involved": [
+      "BGB"
+    ],
+    "index": 27
+  },
+  {
+    "query_id": "DE-2H-018",
+    "hop_stratum": 2,
+    "query_text": "Wie legt der BGH den Anwendungsbereich von § 838 BGB aus?",
+    "gold_evidence_path": [
+      "de-bgh-422",
+      "/akn/de/act/bgb/2024/paragraph/838"
+    ],
+    "failure_mode": "F2",
+    "design_intent": "Hierarchical authority interpretation chain",
+    "law_codes_involved": [
+      "BGB"
+    ],
+    "court": "BGH",
+    "index": 28
+  },
+  {
+    "query_id": "DE-3H-007",
+    "hop_stratum": 3,
+    "query_text": "Welche Norm des BGB wird in der BGH-Entscheidung IV StR 533/25 ausgelegt, und welche weitere Norm des BGB wird dabei herangezogen?",
+    "gold_evidence_path": [
+      "de-bgh-533",
+      "/akn/de/act/bgb/2024/paragraph/1466",
+      "/akn/de/act/bgb/2024/paragraph/1999"
+    ],
+    "failure_mode": "F1",
+    "design_intent": "3-hop temporal + hierarchy failure mode",
+    "law_codes_involved": [
+      "BGB"
+    ],
+    "court": "BGH",
+    "index": 29
+  },
+  {
+    "query_id": "DE-2H-015",
+    "hop_stratum": 2,
+    "query_text": "Wie hat der BGH § 1572 BGB ausgelegt?",
+    "gold_evidence_path": [
+      "de-bgh-157",
+      "/akn/de/act/bgb/2024/paragraph/1572"
+    ],
+    "failure_mode": "F2",
+    "design_intent": "Decision → provision interpretation chain",
+    "law_codes_involved": [
+      "BGB"
+    ],
+    "court": "BGH",
+    "index": 30
+  },
+  {
+    "query_id": "DE-1H-003",
+    "hop_stratum": 1,
+    "query_text": "Welche Voraussetzungen stellt § 726 BGB auf?",
+    "gold_evidence_path": [
+      "/akn/de/act/bgb/2024/paragraph/726"
+    ],
+    "failure_mode": "F3",
+    "design_intent": "Provision requirement lookup",
+    "law_codes_involved": [
+      "BGB"
+    ],
+    "index": 31
+  },
+  {
+    "query_id": "DE-1H-001",
+    "hop_stratum": 1,
+    "query_text": "Was regelt § 145 ZPO?",
+    "gold_evidence_path": [
+      "/akn/de/act/zpo/2024/paragraph/145"
+    ],
+    "failure_mode": "F3",
+    "design_intent": "Direct normative unit lookup — tests basic retrieval",
+    "law_codes_involved": [
+      "ZPO"
+    ],
+    "index": 32
+  },
+  {
+    "query_id": "DE-2H-029",
+    "hop_stratum": 2,
+    "query_text": "Was entschied das BVerfG zu § 1084 BGB im Jahr 2022?",
+    "gold_evidence_path": [
+      "de-bverfg-649",
+      "/akn/de/act/bgb/2024/paragraph/1084"
+    ],
+    "failure_mode": "F1",
+    "design_intent": "Temporal validity check — F1 failure mode",
+    "law_codes_involved": [
+      "BGB"
+    ],
+    "court": "BVerfG",
+    "index": 33
+  },
+  {
+    "query_id": "DE-2H-025",
+    "hop_stratum": 2,
+    "query_text": "Welche BGH-Entscheidung betrifft § 555 ZPO und was sind deren Voraussetzungen?",
+    "gold_evidence_path": [
+      "de-bgh-212",
+      "/akn/de/act/zpo/2024/paragraph/555"
+    ],
+    "failure_mode": "F3",
+    "design_intent": "Decision → cited provision multi-hop",
+    "law_codes_involved": [
+      "ZPO"
+    ],
+    "court": "BGH",
+    "index": 34
+  },
+  {
+    "query_id": "DE-2H-020",
+    "hop_stratum": 2,
+    "query_text": "Welche BGH-Entscheidung betrifft § 424 BGB und was sind deren Voraussetzungen?",
+    "gold_evidence_path": [
+      "de-bgh-371",
+      "/akn/de/act/bgb/2024/paragraph/424"
+    ],
+    "failure_mode": "F3",
+    "design_intent": "Decision → cited provision multi-hop",
+    "law_codes_involved": [
+      "BGB"
+    ],
+    "court": "BGH",
+    "index": 35
+  },
+  {
+    "query_id": "DE-1H-005",
+    "hop_stratum": 1,
+    "query_text": "Wie definiert § 308a ZPO den relevanten Begriff?",
+    "gold_evidence_path": [
+      "/akn/de/act/zpo/2024/paragraph/308a"
+    ],
+    "failure_mode": "F3",
+    "design_intent": "Definition lookup in normative text",
+    "law_codes_involved": [
+      "ZPO"
+    ],
+    "index": 36
+  },
+  {
+    "query_id": "DE-2H-027",
+    "hop_stratum": 2,
+    "query_text": "Welche Norm hat der BGH in IV StR 490/23 angewendet?",
+    "gold_evidence_path": [
+      "de-bgh-490",
+      "/akn/de/act/bgb/2024/paragraph/1439"
+    ],
+    "failure_mode": "F3",
+    "design_intent": "Decision to provision reverse lookup",
+    "law_codes_involved": [
+      "BGB"
+    ],
+    "court": "BGH",
+    "index": 37
+  },
+  {
+    "query_id": "DE-2H-037",
+    "hop_stratum": 2,
+    "query_text": "Wie hat der BGH § 1409 BGB ausgelegt?",
+    "gold_evidence_path": [
+      "de-bgh-431",
+      "/akn/de/act/bgb/2024/paragraph/1409"
+    ],
+    "failure_mode": "F2",
+    "design_intent": "Decision → provision interpretation chain",
+    "law_codes_involved": [
+      "BGB"
+    ],
+    "court": "BGH",
+    "index": 38
+  },
+  {
+    "query_id": "DE-1H-018",
+    "hop_stratum": 1,
+    "query_text": "Was besagt § 1110 BGB zum Thema Haftung?",
+    "gold_evidence_path": [
+      "/akn/de/act/bgb/2024/paragraph/1110"
+    ],
+    "failure_mode": "F4",
+    "design_intent": "Thematic provision lookup with metadata noise potential",
+    "law_codes_involved": [
+      "BGB"
+    ],
+    "index": 39
+  },
+  {
+    "query_id": "DE-1H-012",
+    "hop_stratum": 1,
+    "query_text": "Wie definiert § 636 BGB den relevanten Begriff?",
+    "gold_evidence_path": [
+      "/akn/de/act/bgb/2024/paragraph/636"
+    ],
+    "failure_mode": "F3",
+    "design_intent": "Definition lookup in normative text",
+    "law_codes_involved": [
+      "BGB"
+    ],
+    "index": 40
+  },
+  {
+    "query_id": "DE-3H-002",
+    "hop_stratum": 3,
+    "query_text": "Welche Norm des BGB wird in der BGH-Entscheidung II ZB 345/25 ausgelegt, und welche weitere Norm des ZPO wird dabei herangezogen?",
+    "gold_evidence_path": [
+      "de-bgh-345",
+      "/akn/de/act/bgb/2024/paragraph/1776",
+      "/akn/de/act/zpo/2024/paragraph/707"
+    ],
+    "failure_mode": "F1",
+    "design_intent": "3-hop temporal + hierarchy failure mode",
+    "law_codes_involved": [
+      "BGB",
+      "ZPO"
+    ],
+    "court": "BGH",
+    "index": 41
+  },
+  {
+    "query_id": "DE-1H-009",
+    "hop_stratum": 1,
+    "query_text": "Welche Voraussetzungen stellt § 659 BGB auf?",
+    "gold_evidence_path": [
+      "/akn/de/act/bgb/2024/paragraph/659"
+    ],
+    "failure_mode": "F3",
+    "design_intent": "Provision requirement lookup",
+    "law_codes_involved": [
+      "BGB"
+    ],
+    "index": 42
+  },
+  {
+    "query_id": "DE-2H-006",
+    "hop_stratum": 2,
+    "query_text": "Wie hat der BGH § 2188 BGB ausgelegt?",
+    "gold_evidence_path": [
+      "de-bgh-333",
+      "/akn/de/act/bgb/2024/paragraph/2188"
+    ],
+    "failure_mode": "F2",
+    "design_intent": "Decision → provision interpretation chain",
+    "law_codes_involved": [
+      "BGB"
+    ],
+    "court": "BGH",
+    "index": 43
+  },
+  {
+    "query_id": "DE-2H-012",
+    "hop_stratum": 2,
+    "query_text": "Welche BGH-Entscheidung betrifft Art 29 GG und was sind deren Voraussetzungen?",
+    "gold_evidence_path": [
+      "de-bverfg-646",
+      "/akn/de/act/gg/2024/article/BJNR000010949BJNE004701307"
+    ],
+    "failure_mode": "F3",
+    "design_intent": "Decision → cited provision multi-hop",
+    "law_codes_involved": [
+      "GG"
+    ],
+    "court": "BVerfG",
+    "index": 44
+  },
+  {
+    "query_id": "DE-2H-023",
+    "hop_stratum": 2,
+    "query_text": "Welche Norm hat der BGH in X ZR 324/24 angewendet?",
+    "gold_evidence_path": [
+      "de-bgh-324",
+      "/akn/de/act/bgb/2024/paragraph/675p"
+    ],
+    "failure_mode": "F3",
+    "design_intent": "Decision to provision reverse lookup",
+    "law_codes_involved": [
+      "BGB"
+    ],
+    "court": "BGH",
+    "index": 45
+  },
+  {
+    "query_id": "DE-3H-005",
+    "hop_stratum": 3,
+    "query_text": "Welche Norm des BGB wird in der BGH-Entscheidung II StR 231/24 ausgelegt, und welche weitere Norm des BGB wird dabei herangezogen?",
+    "gold_evidence_path": [
+      "de-bgh-231",
+      "/akn/de/act/bgb/2024/paragraph/717",
+      "/akn/de/act/bgb/2024/paragraph/1360b"
+    ],
+    "failure_mode": "F1",
+    "design_intent": "3-hop temporal + hierarchy failure mode",
+    "law_codes_involved": [
+      "BGB"
+    ],
+    "court": "BGH",
+    "index": 46
+  },
+  {
+    "query_id": "DE-1H-016",
+    "hop_stratum": 1,
+    "query_text": "Welche Voraussetzungen stellt § 733 ZPO auf?",
+    "gold_evidence_path": [
+      "/akn/de/act/zpo/2024/paragraph/733"
+    ],
+    "failure_mode": "F3",
+    "design_intent": "Provision requirement lookup",
+    "law_codes_involved": [
+      "ZPO"
+    ],
+    "index": 47
+  },
+  {
+    "query_id": "DE-3H-008",
+    "hop_stratum": 3,
+    "query_text": "Wie verhalten sich § 1927 BGB und § 926 BGB zueinander nach der Rechtsprechung des BGH?",
+    "gold_evidence_path": [
+      "de-bgh-305",
+      "/akn/de/act/bgb/2024/paragraph/1927",
+      "/akn/de/act/bgb/2024/paragraph/926"
+    ],
+    "failure_mode": "F3",
+    "design_intent": "3-hop: norm1 → decision → norm2 citation chain",
+    "law_codes_involved": [
+      "BGB"
+    ],
+    "court": "BGH",
+    "index": 48
+  },
+  {
+    "query_id": "DE-1H-022",
+    "hop_stratum": 1,
+    "query_text": "Was regelt § 1284 BGB?",
+    "gold_evidence_path": [
+      "/akn/de/act/bgb/2024/paragraph/1284"
+    ],
+    "failure_mode": "F3",
+    "design_intent": "Direct normative unit lookup — tests basic retrieval",
+    "law_codes_involved": [
+      "BGB"
+    ],
+    "index": 49
+  },
+  {
+    "query_id": "DE-2H-035",
+    "hop_stratum": 2,
+    "query_text": "Welche Norm hat der BGH in V ZR 482/22 angewendet?",
+    "gold_evidence_path": [
+      "de-bgh-482",
+      "/akn/de/act/bgb/2024/paragraph/331"
+    ],
+    "failure_mode": "F3",
+    "design_intent": "Decision to provision reverse lookup",
+    "law_codes_involved": [
+      "BGB"
+    ],
+    "court": "BGH",
+    "index": 50
+  },
+  {
+    "query_id": "DE-2H-003",
+    "hop_stratum": 2,
+    "query_text": "Welche Norm hat der BGH in IV ZR 487/23 angewendet?",
+    "gold_evidence_path": [
+      "de-bgh-487",
+      "/akn/de/act/bgb/2024/paragraph/445"
+    ],
+    "failure_mode": "F3",
+    "design_intent": "Decision to provision reverse lookup",
+    "law_codes_involved": [
+      "BGB"
+    ],
+    "court": "BGH",
+    "index": 51
+  },
+  {
+    "query_id": "DE-2H-034",
+    "hop_stratum": 2,
+    "query_text": "Welche BGH-Entscheidung betrifft § 697 BGB und was sind deren Voraussetzungen?",
+    "gold_evidence_path": [
+      "de-bag-723",
+      "/akn/de/act/bgb/2024/paragraph/697"
+    ],
+    "failure_mode": "F3",
+    "design_intent": "Decision → cited provision multi-hop",
+    "law_codes_involved": [
+      "BGB"
+    ],
+    "court": "BAG",
+    "index": 52
+  },
+  {
+    "query_id": "DE-1H-007",
+    "hop_stratum": 1,
+    "query_text": "Was regelt § 1507 BGB?",
+    "gold_evidence_path": [
+      "/akn/de/act/bgb/2024/paragraph/1507"
+    ],
+    "failure_mode": "F3",
+    "design_intent": "Direct normative unit lookup — tests basic retrieval",
+    "law_codes_involved": [
+      "BGB"
+    ],
+    "index": 53
+  },
+  {
+    "query_id": "DE-2H-032",
+    "hop_stratum": 2,
+    "query_text": "Welche Norm hat der BGH in II StR 369/24 angewendet?",
+    "gold_evidence_path": [
+      "de-bgh-369",
+      "/akn/de/act/bgb/2024/paragraph/1373"
+    ],
+    "failure_mode": "F3",
+    "design_intent": "Decision to provision reverse lookup",
+    "law_codes_involved": [
+      "BGB"
+    ],
+    "court": "BGH",
+    "index": 54
+  },
+  {
+    "query_id": "DE-2H-019",
+    "hop_stratum": 2,
+    "query_text": "Welche BGH-Entscheidung betrifft § 897 BGB und was sind deren Voraussetzungen?",
+    "gold_evidence_path": [
+      "de-bgh-505",
+      "/akn/de/act/bgb/2024/paragraph/897"
+    ],
+    "failure_mode": "F3",
+    "design_intent": "Decision → cited provision multi-hop",
+    "law_codes_involved": [
+      "BGB"
+    ],
+    "court": "BGH",
+    "index": 55
+  },
+  {
+    "query_id": "DE-2H-021",
+    "hop_stratum": 2,
+    "query_text": "Welche Norm hat der BVerfG in 2 BvR 674/23 angewendet?",
+    "gold_evidence_path": [
+      "de-bverfg-674",
+      "/akn/de/act/bgb/2024/paragraph/1786"
+    ],
+    "failure_mode": "F3",
+    "design_intent": "Decision to provision reverse lookup",
+    "law_codes_involved": [
+      "BGB"
+    ],
+    "court": "BVerfG",
+    "index": 56
+  },
+  {
+    "query_id": "DE-1H-004",
+    "hop_stratum": 1,
+    "query_text": "Was regelt § 492a BGB?",
+    "gold_evidence_path": [
+      "/akn/de/act/bgb/2024/paragraph/492a"
+    ],
+    "failure_mode": "F3",
+    "design_intent": "Direct normative unit lookup — tests basic retrieval",
+    "law_codes_involved": [
+      "BGB"
+    ],
+    "index": 57
+  },
+  {
+    "query_id": "DE-2H-024",
+    "hop_stratum": 2,
+    "query_text": "Wie hat der BVerfG Art 115i GG ausgelegt?",
+    "gold_evidence_path": [
+      "de-bverfg-605",
+      "/akn/de/act/gg/2024/article/BJNR000010949BJNE015600314"
+    ],
+    "failure_mode": "F2",
+    "design_intent": "Decision → provision interpretation chain",
+    "law_codes_involved": [
+      "GG"
+    ],
+    "court": "BVerfG",
+    "index": 58
+  },
+  {
+    "query_id": "DE-3H-004",
+    "hop_stratum": 3,
+    "query_text": "Welche BGB-Norm liegt der BGH-Entscheidung V StR 170/25 zugrunde und wie verhält sie sich zu § 281 BGB?",
+    "gold_evidence_path": [
+      "de-bgh-170",
+      "/akn/de/act/bgb/2024/paragraph/839a",
+      "/akn/de/act/bgb/2024/paragraph/281"
+    ],
+    "failure_mode": "F2",
+    "design_intent": "3-hop: decision → primary norm → related norm",
+    "law_codes_involved": [
+      "BGB"
+    ],
+    "court": "BGH",
+    "index": 59
+  },
+  {
+    "query_id": "DE-2H-007",
+    "hop_stratum": 2,
+    "query_text": "Wie legt der BGH den Anwendungsbereich von § 360 BGB aus?",
+    "gold_evidence_path": [
+      "de-bgh-338",
+      "/akn/de/act/bgb/2024/paragraph/360"
+    ],
+    "failure_mode": "F2",
+    "design_intent": "Hierarchical authority interpretation chain",
+    "law_codes_involved": [
+      "BGB"
+    ],
+    "court": "BGH",
+    "index": 60
+  },
+  {
+    "query_id": "DE-2H-004",
+    "hop_stratum": 2,
+    "query_text": "Welche Norm hat der BGH in X ZR 400/25 angewendet?",
+    "gold_evidence_path": [
+      "de-bgh-400",
+      "/akn/de/act/bgb/2024/paragraph/1598a"
+    ],
+    "failure_mode": "F3",
+    "design_intent": "Decision to provision reverse lookup",
+    "law_codes_involved": [
+      "BGB"
+    ],
+    "court": "BGH",
+    "index": 61
+  },
+  {
+    "query_id": "DE-3H-014",
+    "hop_stratum": 3,
+    "query_text": "Wie verhalten sich § 1164 BGB und § 1959 BGB zueinander nach der Rechtsprechung des BGH?",
+    "gold_evidence_path": [
+      "de-bgh-169",
+      "/akn/de/act/bgb/2024/paragraph/1164",
+      "/akn/de/act/bgb/2024/paragraph/1959"
+    ],
+    "failure_mode": "F3",
+    "design_intent": "3-hop: norm1 → decision → norm2 citation chain",
+    "law_codes_involved": [
+      "BGB"
+    ],
+    "court": "BGH",
+    "index": 62
+  },
+  {
+    "query_id": "DE-1H-023",
+    "hop_stratum": 1,
+    "query_text": "Was besagt § 1185 BGB zum Thema Haftung?",
+    "gold_evidence_path": [
+      "/akn/de/act/bgb/2024/paragraph/1185"
+    ],
+    "failure_mode": "F4",
+    "design_intent": "Thematic provision lookup with metadata noise potential",
+    "law_codes_involved": [
+      "BGB"
+    ],
+    "index": 63
+  },
+  {
+    "query_id": "DE-2H-033",
+    "hop_stratum": 2,
+    "query_text": "Welche Norm hat der BGH in I StR 208/25 angewendet?",
+    "gold_evidence_path": [
+      "de-bgh-208",
+      "/akn/de/act/zpo/2024/paragraph/1129"
+    ],
+    "failure_mode": "F3",
+    "design_intent": "Decision to provision reverse lookup",
+    "law_codes_involved": [
+      "ZPO"
+    ],
+    "court": "BGH",
+    "index": 64
+  },
+  {
+    "query_id": "DE-3H-006",
+    "hop_stratum": 3,
+    "query_text": "Welche Norm des ZPO wird in der BGH-Entscheidung V ZR 269/22 ausgelegt, und welche weitere Norm des ZPO wird dabei herangezogen?",
+    "gold_evidence_path": [
+      "de-bgh-269",
+      "/akn/de/act/zpo/2024/paragraph/942",
+      "/akn/de/act/zpo/2024/paragraph/1104a"
+    ],
+    "failure_mode": "F1",
+    "design_intent": "3-hop temporal + hierarchy failure mode",
+    "law_codes_involved": [
+      "ZPO"
+    ],
+    "court": "BGH",
+    "index": 65
+  },
+  {
+    "query_id": "DE-1H-013",
+    "hop_stratum": 1,
+    "query_text": "Welche Voraussetzungen stellt § 1497 BGB auf?",
+    "gold_evidence_path": [
+      "/akn/de/act/bgb/2024/paragraph/1497"
+    ],
+    "failure_mode": "F3",
+    "design_intent": "Provision requirement lookup",
+    "law_codes_involved": [
+      "BGB"
+    ],
+    "index": 66
+  },
+  {
+    "query_id": "DE-2H-002",
+    "hop_stratum": 2,
+    "query_text": "Wie hat der BGH § 1626e BGB ausgelegt?",
+    "gold_evidence_path": [
+      "de-bgh-570",
+      "/akn/de/act/bgb/2024/paragraph/1626e"
+    ],
+    "failure_mode": "F2",
+    "design_intent": "Decision → provision interpretation chain",
+    "law_codes_involved": [
+      "BGB"
+    ],
+    "court": "BGH",
+    "index": 67
+  },
+  {
+    "query_id": "DE-2H-030",
+    "hop_stratum": 2,
+    "query_text": "Wie legt der BGH den Anwendungsbereich von § 1626e BGB aus?",
+    "gold_evidence_path": [
+      "de-bgh-214",
+      "/akn/de/act/bgb/2024/paragraph/1626e"
+    ],
+    "failure_mode": "F2",
+    "design_intent": "Hierarchical authority interpretation chain",
+    "law_codes_involved": [
+      "BGB"
+    ],
+    "court": "BGH",
+    "index": 68
+  },
+  {
+    "query_id": "DE-3H-011",
+    "hop_stratum": 3,
+    "query_text": "Welche Norm des BGB wird in der BGH-Entscheidung III StR 165/25 ausgelegt, und welche weitere Norm des BGB wird dabei herangezogen?",
+    "gold_evidence_path": [
+      "de-bgh-165",
+      "/akn/de/act/bgb/2024/paragraph/268",
+      "/akn/de/act/bgb/2024/paragraph/1983"
+    ],
+    "failure_mode": "F1",
+    "design_intent": "3-hop temporal + hierarchy failure mode",
+    "law_codes_involved": [
+      "BGB"
+    ],
+    "court": "BGH",
+    "index": 69
+  },
+  {
+    "query_id": "DE-2H-009",
+    "hop_stratum": 2,
+    "query_text": "Was entschied das BGH zu § 2168a BGB im Jahr 2020?",
+    "gold_evidence_path": [
+      "de-bgh-266",
+      "/akn/de/act/bgb/2024/paragraph/2168a"
+    ],
+    "failure_mode": "F1",
+    "design_intent": "Temporal validity check — F1 failure mode",
+    "law_codes_involved": [
+      "BGB"
+    ],
+    "court": "BGH",
+    "index": 70
+  },
+  {
+    "query_id": "DE-3H-001",
+    "hop_stratum": 3,
+    "query_text": "Wie verhalten sich § 1041 BGB und § 1626e BGB zueinander nach der Rechtsprechung des BGH?",
+    "gold_evidence_path": [
+      "de-bgh-214",
+      "/akn/de/act/bgb/2024/paragraph/1041",
+      "/akn/de/act/bgb/2024/paragraph/1626e"
+    ],
+    "failure_mode": "F3",
+    "design_intent": "3-hop: norm1 → decision → norm2 citation chain",
+    "law_codes_involved": [
+      "BGB"
+    ],
+    "court": "BGH",
+    "index": 71
+  },
+  {
+    "query_id": "DE-1H-017",
+    "hop_stratum": 1,
+    "query_text": "Welche Rechtsfolgen sieht § 389 ZPO vor?",
+    "gold_evidence_path": [
+      "/akn/de/act/zpo/2024/paragraph/389"
+    ],
+    "failure_mode": "F3",
+    "design_intent": "Legal consequence lookup",
+    "law_codes_involved": [
+      "ZPO"
+    ],
+    "index": 72
+  },
+  {
+    "query_id": "DE-3H-010",
+    "hop_stratum": 3,
+    "query_text": "Welche BGB-Norm liegt der BGH-Entscheidung X ZR 562/24 zugrunde und wie verhält sie sich zu § 593b BGB?",
+    "gold_evidence_path": [
+      "de-bgh-562",
+      "/akn/de/act/bgb/2024/paragraph/1565",
+      "/akn/de/act/bgb/2024/paragraph/593b"
+    ],
+    "failure_mode": "F2",
+    "design_intent": "3-hop: decision → primary norm → related norm",
+    "law_codes_involved": [
+      "BGB"
+    ],
+    "court": "BGH",
+    "index": 73
+  },
+  {
+    "query_id": "DE-2H-005",
+    "hop_stratum": 2,
+    "query_text": "Wie hat der BGH § 744 BGB ausgelegt?",
+    "gold_evidence_path": [
+      "de-bgh-296",
+      "/akn/de/act/bgb/2024/paragraph/744"
+    ],
+    "failure_mode": "F2",
+    "design_intent": "Decision → provision interpretation chain",
+    "law_codes_involved": [
+      "BGB"
+    ],
+    "court": "BGH",
+    "index": 74
+  },
+  {
+    "query_id": "DE-3H-003",
+    "hop_stratum": 3,
+    "query_text": "Wie verhalten sich § 1240 BGB und § 87b BGB zueinander nach der Rechtsprechung des BGH?",
+    "gold_evidence_path": [
+      "de-bgh-180",
+      "/akn/de/act/bgb/2024/paragraph/1240",
+      "/akn/de/act/bgb/2024/paragraph/87b"
+    ],
+    "failure_mode": "F3",
+    "design_intent": "3-hop: norm1 → decision → norm2 citation chain",
+    "law_codes_involved": [
+      "BGB"
+    ],
+    "court": "BGH",
+    "index": 75
+  }
+]

@@ -1,0 +1,3388 @@
+[
+  {
+    "qid": "T1_PROV_VUK_M334",
+    "question": "Vergi Usul Kanunu Madde 334 ne hükmeder?",
+    "hop_depth": 1,
+    "question_type": "provision_content",
+    "seed_nodes": [
+      "VUK_M334"
+    ],
+    "ground_truth_provisions": [
+      "VUK_M334"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "Madde 334 – (Değişik : 30/12/1980-2365/60 md.)\nDamga Vergisi ve Damga Resmi uygulamalarında gerek nispi, gerek maktu vergi ve\nresimlerle ilgili cezadan sorumlu olanlar birden fazla olduğu takdirde, ye",
+    "difficulty": "easy",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1"
+  },
+  {
+    "qid": "T1_PROV_TCK_M275",
+    "question": "Türk Ceza Kanunu Madde 275 ne hükmeder?",
+    "hop_depth": 1,
+    "question_type": "provision_content",
+    "seed_nodes": [
+      "TCK_M275"
+    ],
+    "ground_truth_provisions": [
+      "TCK_M275"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "Madde 275- (1) Hukuk davalarında yalan yere yemin eden davacı veya davalıya bir\nyıldan beş yıla kadar hapis cezası verilir.\n(2) Dava hakkında hüküm verilmeden önce gerçeğin söylenmesi halinde, cezaya\n",
+    "difficulty": "easy",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1"
+  },
+  {
+    "qid": "T1_PROV_TBK_M284",
+    "question": "Türk Borçlar Kanunu Madde 284 ne hükmeder?",
+    "hop_depth": 1,
+    "question_type": "provision_content",
+    "seed_nodes": [
+      "TBK_M284"
+    ],
+    "ground_truth_provisions": [
+      "TBK_M284"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "MADDE 284- Satış sözleşmesinin zapttan ve ayıptan sorumluluğa ilişkin hükümleri \nuygun düştüğü ölçüde, mal değişim sözleşmesine de uygulanır. \n \nÜÇÜNCÜ BÖLÜM \nBağışlama Sözleşmesi \nA. Tanımı",
+    "difficulty": "easy",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1"
+  },
+  {
+    "qid": "T1_PROV_TMK_M953",
+    "question": "Türk Medeni Kanunu'nun 953. maddesi hangi yükümlülüğü düzenler?",
+    "hop_depth": 1,
+    "question_type": "provision_content",
+    "seed_nodes": [
+      "TMK_M953"
+    ],
+    "ground_truth_provisions": [
+      "TMK_M953"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "Madde 953- Borç yerine getirilmez ve yeterli güvence de gösterilmezse alacaklı, borçluya\ndaha önce bildirimde bulunarak, hapsettiği şeylerin teslime bağlı rehin hükümleri uyarınca paraya\nçevrilmesini ",
+    "difficulty": "easy",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1"
+  },
+  {
+    "qid": "T1_PROV_TMK_M706",
+    "question": "Türk Medeni Kanunu'nun 706. maddesi hangi yükümlülüğü düzenler?",
+    "hop_depth": 1,
+    "question_type": "provision_content",
+    "seed_nodes": [
+      "TMK_M706"
+    ],
+    "ground_truth_provisions": [
+      "TMK_M706"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "Madde 706- Taşınmaz mülkiyetinin devrini amaçlayan sözleşmelerin geçerli olması,\nresmî şekilde düzenlenmiş bulunmalarına bağlıdır.\nÖlüme bağlı tasarruflar ve mal rejimi sözleşmeleri, kendilerine özgü ",
+    "difficulty": "easy",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1"
+  },
+  {
+    "qid": "T1_PROV_TMK_M519",
+    "question": "Türk Medeni Kanunu Madde 519 ne hükmeder?",
+    "hop_depth": 1,
+    "question_type": "provision_content",
+    "seed_nodes": [
+      "TMK_M519"
+    ],
+    "ground_truth_provisions": [
+      "TMK_M519"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "Madde 519- Tereke mevcudunu veya tasarrufu yerine getirme yükümlüsüne yapılan\nkazandırmayı ya da saklı payı zedeleyen tasarrufların orantılı olarak tenkisi istenebilir.\nTasarrufu yerine getirme yüküml",
+    "difficulty": "easy",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1"
+  },
+  {
+    "qid": "T1_PROV_CMK_M161",
+    "question": "Ceza Muhakemesi Kanunu'nun 161. maddesi hangi yükümlülüğü düzenler?",
+    "hop_depth": 1,
+    "question_type": "provision_content",
+    "seed_nodes": [
+      "CMK_M161"
+    ],
+    "ground_truth_provisions": [
+      "CMK_M161"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "Madde 161 – (1) Cumhuriyet savcısı, doğrudan doğruya veya emrindeki adlî kolluk\ngörevlileri aracılığı ile her türlü araştırmayı yapabilir; yukarıdaki maddede yazılı sonuçlara\nvarmak için bütün kamu gö",
+    "difficulty": "easy",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1"
+  },
+  {
+    "qid": "T1_PROV_TCK_M201",
+    "question": "Türk Ceza Kanunu Madde 201 ne hükmeder?",
+    "hop_depth": 1,
+    "question_type": "provision_content",
+    "seed_nodes": [
+      "TCK_M201"
+    ],
+    "ground_truth_provisions": [
+      "TCK_M201"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "Madde 201- (1) Sahte olarak para veya kıymetli damga üreten, ülkeye sokan,\nnakleden, muhafaza eden veya kabul eden kişi, bu para veya kıymetli damgaları tedavüle\nkoymadan ve resmi makamlar tarafından ",
+    "difficulty": "easy",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1"
+  },
+  {
+    "qid": "T1_PROV_IIK_M266",
+    "question": "İcra ve İflas Kanunu'nun 266. maddesi hangi yükümlülüğü düzenler?",
+    "hop_depth": 1,
+    "question_type": "provision_content",
+    "seed_nodes": [
+      "IIK_M266"
+    ],
+    "ground_truth_provisions": [
+      "IIK_M266"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "Madde 266 – (Değişik: 18/2/1965-538/106 md.)\nBorçlu, para veya mahkemece kabul edilecek rehin veya esham yahut tahvilat depo\netmek veya taşınmaz rehin yahut muteber bir banka kefaleti göstermek şartı ",
+    "difficulty": "easy",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1"
+  },
+  {
+    "qid": "T1_PROV_TTK_M1074",
+    "question": "Türk Ticaret Kanunu'nun 1074. maddesi hangi yükümlülüğü düzenler?",
+    "hop_depth": 1,
+    "question_type": "provision_content",
+    "seed_nodes": [
+      "TTK_M1074"
+    ],
+    "ground_truth_provisions": [
+      "TTK_M1074"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "MADDE 1074- (1) Gemi müdürü, iştirak işlerine ilişkin ayrı bir defter tutmak ve\niştirak işleri dolayısıyla aldığı belgeleri ve verdiği belgelerin suretlerini düzenli bir şekilde\nsaklamak zorundadır.\nc",
+    "difficulty": "easy",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1"
+  },
+  {
+    "qid": "T1_PROV_TCK_M74",
+    "question": "Türk Ceza Kanunu'nun 74. maddesi hangi yükümlülüğü düzenler?",
+    "hop_depth": 1,
+    "question_type": "provision_content",
+    "seed_nodes": [
+      "TCK_M74"
+    ],
+    "ground_truth_provisions": [
+      "TCK_M74"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "Madde 74- (1) Genel af, özel af ve şikayetten vazgeçme, müsadere olunan şeylerin\nveya ödenen adlî para cezasının geri alınmasını gerektirmez.\n(2) Kamu davasının düşmesi, malların geri alınması ve uğra",
+    "difficulty": "easy",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1"
+  },
+  {
+    "qid": "T1_PROV_TTK_M1445",
+    "question": "Türk Ticaret Kanunu'nun 1445. maddesi hangi yükümlülüğü düzenler?",
+    "hop_depth": 1,
+    "question_type": "provision_content",
+    "seed_nodes": [
+      "TTK_M1445"
+    ],
+    "ground_truth_provisions": [
+      "TTK_M1445"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "MADDE 1445- (1) Sigortacı sözleşmenin süresi içinde, rizikonun gerçekleşmesi veya\nmevcut durumun ağırlaşması ihtimalini ya da sözleşmede riziko ağırlaşması olarak kabul\nedilebilecek olayların varlığın",
+    "difficulty": "easy",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1"
+  },
+  {
+    "qid": "T1_PROV_TTK_M53",
+    "question": "TTK m.53'nin içeriği nedir?",
+    "hop_depth": 1,
+    "question_type": "provision_content",
+    "seed_nodes": [
+      "TTK_M53"
+    ],
+    "ground_truth_provisions": [
+      "TTK_M53"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "MADDE 53- (1) İşletme sahibi ile ilgili olmaksızın doğrudan doğruya işletmeyi\ntanıtmak ve benzer işletmelerden ayırt etmek için kullanılan adların da sahipleri tarafından\ntescil ettirilmesi gerekir. T",
+    "difficulty": "easy",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1"
+  },
+  {
+    "qid": "T1_PROV_TBK_M336",
+    "question": "Türk Borçlar Kanunu Madde 336 ne hükmeder?",
+    "hop_depth": 1,
+    "question_type": "provision_content",
+    "seed_nodes": [
+      "TBK_M336"
+    ],
+    "ground_truth_provisions": [
+      "TBK_M336"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "MADDE 336- Taşınmaz kiralarında kiraya veren, işlemiş bir yıllık ve işlemekte olan \naltı aylık kira bedelinin güvencesi olmak üzere, kiralananda bulunan ve kiralananın \ndöşenmesine veya kullanılmasına",
+    "difficulty": "easy",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1"
+  },
+  {
+    "qid": "T1_PROV_TBK_M321",
+    "question": "TBK m.321'nin içeriği nedir?",
+    "hop_depth": 1,
+    "question_type": "provision_content",
+    "seed_nodes": [
+      "TBK_M321"
+    ],
+    "ground_truth_provisions": [
+      "TBK_M321"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "MADDE 321- Kiracı, kiraya verenin yazılı rızasıyla kiralananda yenilik ve değişiklikler \nyapabilir. \nYenilik ve değişikliklere rıza gösteren kiraya veren, yazılı olarak kararlaştırılmış \nolmadıkça, ki",
+    "difficulty": "easy",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1"
+  },
+  {
+    "qid": "T1_DEC_rekabet_fa16fa4e-ee89-4005-99c3-d5b3fda50263",
+    "question": "Rekabet Kurumu kararı (rekabet_fa16fa4e-ee89-4005-99c3-d5b3fda50263): 'DLT Turizm ve Ticaret AŞ’nin sermayesinin %100’ünü temsil eden payların ve tek kontrolünün Tera Yatı' — hangi kanun maddelerini uygulamıştır?",
+    "hop_depth": 1,
+    "question_type": "decision_applies",
+    "seed_nodes": [
+      "rekabet_fa16fa4e-ee89-4005-99c3-d5b3fda50263"
+    ],
+    "ground_truth_provisions": [
+      "REKABET_K_M7"
+    ],
+    "ground_truth_decisions": [
+      "rekabet_fa16fa4e-ee89-4005-99c3-d5b3fda50263"
+    ],
+    "answer_snippet": "Uygulanan maddeler: REKABET_K_M7",
+    "difficulty": "easy",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1"
+  },
+  {
+    "qid": "T2_DP_rekabet_7cd3dea2-0ba6-403b-a24f-7b744a35fea7_REKABET_K_M16",
+    "question": "'Provision Bilgi İşlem Sanayi ve Ticaret AŞ'nin tek kontrolünün Dgpaysit Bilişim ' konusundaki Rekabet Kurumu kararı, REKABET_K Madde 16'yi uygulayarak hangi diğer maddelere bağlanmaktadır?",
+    "hop_depth": 2,
+    "question_type": "decision_provision_chain",
+    "seed_nodes": [
+      "rekabet_7cd3dea2-0ba6-403b-a24f-7b744a35fea7"
+    ],
+    "ground_truth_provisions": [
+      "REKABET_K_M16",
+      "REKABET_K_M7"
+    ],
+    "ground_truth_decisions": [
+      "rekabet_7cd3dea2-0ba6-403b-a24f-7b744a35fea7"
+    ],
+    "answer_snippet": "Uygulanan: REKABET_K_M16, REKABET_K_M7, Bağlantılı: ",
+    "difficulty": "medium",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1"
+  },
+  {
+    "qid": "T2_DP_001-250580_IK_M19",
+    "question": "'Preliminary objection dismissed (Art. 34) Individual applications;(Art. 34) Vict' konusundaki AİHM kararı, İş Kanunu Madde 19'yi uygulayarak hangi diğer maddelere bağlanmaktadır?",
+    "hop_depth": 2,
+    "question_type": "decision_provision_chain",
+    "seed_nodes": [
+      "001-250580"
+    ],
+    "ground_truth_provisions": [
+      "IK_M19",
+      "IK_M18",
+      "IK_M25",
+      "IK_M20"
+    ],
+    "ground_truth_decisions": [
+      "001-250580"
+    ],
+    "answer_snippet": "Uygulanan: IK_M19, IK_M18, IK_M25, Bağlantılı: IK_M20",
+    "difficulty": "medium",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1"
+  },
+  {
+    "qid": "T2_DP_rekabet_31a548a6-c0ae-4041-b3a5-d5cd45feea68_REKABET_K_M4",
+    "question": "'Rekabet Kurulunun 26.10.2023 tarihli ve 23-50/955-M sayılı kararı ile Aydın ilin' konusundaki Rekabet Kurumu kararı, REKABET_K Madde 4'yi uygulayarak hangi diğer maddelere bağlanmaktadır?",
+    "hop_depth": 2,
+    "question_type": "decision_provision_chain",
+    "seed_nodes": [
+      "rekabet_31a548a6-c0ae-4041-b3a5-d5cd45feea68"
+    ],
+    "ground_truth_provisions": [
+      "REKABET_K_M4",
+      "REKABET_K_M40",
+      "REKABET_K_M43"
+    ],
+    "ground_truth_decisions": [
+      "rekabet_31a548a6-c0ae-4041-b3a5-d5cd45feea68"
+    ],
+    "answer_snippet": "Uygulanan: REKABET_K_M4, REKABET_K_M40, REKABET_K_M43, Bağlantılı: ",
+    "difficulty": "medium",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1"
+  },
+  {
+    "qid": "T2_DP_sayistay_32412_TCK_M204",
+    "question": "'Konu: Kamu görevlisinin maaş ödemelerinde usulsüzlük yapmak suretiyle Belediyeye' konusundaki Sayıştay kararı, Türk Ceza Kanunu Madde 204'yi uygulayarak hangi diğer maddelere bağlanmaktadır?",
+    "hop_depth": 2,
+    "question_type": "decision_provision_chain",
+    "seed_nodes": [
+      "sayistay_32412"
+    ],
+    "ground_truth_provisions": [
+      "TCK_M204",
+      "BELEDIYE_K_M12",
+      "TCK_M205"
+    ],
+    "ground_truth_decisions": [
+      "sayistay_32412"
+    ],
+    "answer_snippet": "Uygulanan: TCK_M204, BELEDIYE_K_M12, Bağlantılı: TCK_M205",
+    "difficulty": "medium",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1"
+  },
+  {
+    "qid": "MANUAL_001",
+    "question": "Türk Borçlar Kanunu'nda haksız fiil sorumluluğu nasıl düzenlenir? TBK Madde 49 ve bağlantılı maddeler nelerdir?",
+    "hop_depth": 2,
+    "question_type": "provision_chain",
+    "seed_nodes": [
+      "TBK_M49"
+    ],
+    "ground_truth_provisions": [
+      "TBK_M49",
+      "TBK_M50",
+      "TBK_M51",
+      "TBK_M52",
+      "TBK_M53"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "TBK m.49: Haksız fiil sorumluluğunun genel hükmü; m.50: Zarar ve ursun ispatı; m.51: Zarar miktarı",
+    "difficulty": "medium",
+    "expert_verified": true,
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1"
+  },
+  {
+    "qid": "MANUAL_002",
+    "question": "Anayasa Mahkemesi mülkiyet hakkı ihlali kararlarında hangi Anayasa maddesi esas alınır ve bu madde ile ilgili kanun hükümleri nelerdir?",
+    "hop_depth": 2,
+    "question_type": "decision_cluster_common_provisions",
+    "seed_nodes": [
+      "AY_M35"
+    ],
+    "ground_truth_provisions": [
+      "AY_M35",
+      "AY_M46",
+      "TMK_M683",
+      "TMK_M684"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "AY m.35 mülkiyet hakkı; m.46 kamulaştırma; TMK m.683-684 mülkiyet",
+    "difficulty": "hard",
+    "expert_verified": true,
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1"
+  },
+  {
+    "qid": "MANUAL_003",
+    "question": "Aşırı ifa güçlüğü (hardship) durumunda borçlunun hakları nelerdir? TBK 138 ve ilgili maddeler?",
+    "hop_depth": 1,
+    "question_type": "provision_content",
+    "seed_nodes": [
+      "TBK_M138"
+    ],
+    "ground_truth_provisions": [
+      "TBK_M138",
+      "TBK_M137",
+      "TBK_M136"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "TBK m.138: Aşırı ifa güçlüğü — uyarlama ve dönme hakkı",
+    "difficulty": "medium",
+    "expert_verified": true,
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1"
+  },
+  {
+    "qid": "MANUAL_004",
+    "question": "Makul sürede yargılanma hakkının ihlal edildiği AYM kararları hangi anayasa ve sözleşme maddelerine dayanır?",
+    "hop_depth": 2,
+    "question_type": "decision_cluster_common_provisions",
+    "seed_nodes": [
+      "AY_M36"
+    ],
+    "ground_truth_provisions": [
+      "AY_M36",
+      "AY_M141"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "AY m.36 adil yargılanma; AY m.141 davaların makul sürede bitirilmesi",
+    "difficulty": "hard",
+    "expert_verified": true,
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1"
+  },
+  {
+    "qid": "MANUAL_005",
+    "question": "Türk Ceza Kanunu'nda görevi kötüye kullanma suçu hangi maddede düzenlenir ve CMK'daki ilgili usul hükümleri nelerdir?",
+    "hop_depth": 2,
+    "question_type": "cross_law_chain",
+    "seed_nodes": [
+      "TCK_M257"
+    ],
+    "ground_truth_provisions": [
+      "TCK_M257",
+      "CMK_M250"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "TCK m.257: Görevi kötüye kullanma; CMK m.250 vs. ilgili usul",
+    "difficulty": "hard",
+    "expert_verified": true,
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1"
+  },
+  {
+    "qid": "MANUAL_006",
+    "question": "KVKK kapsamında kişisel veri işlemenin yasal dayanakları nelerdir? Hangi maddeler açık rıza şartını düzenler?",
+    "hop_depth": 1,
+    "question_type": "provision_content",
+    "seed_nodes": [
+      "KVKK_M5"
+    ],
+    "ground_truth_provisions": [
+      "KVKK_M5",
+      "KVKK_M6",
+      "KVKK_M3"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "KVKK m.5: Kişisel verilerin işlenme şartları; m.5/1 açık rıza; m.5/2 rızasız işleme koşulları",
+    "difficulty": "easy",
+    "expert_verified": true,
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1"
+  },
+  {
+    "qid": "MANUAL_007",
+    "question": "İş sözleşmesinin haklı nedenle feshi durumunda işçi tazminat hakları hangi İş Kanunu maddelerinde düzenlenir?",
+    "hop_depth": 2,
+    "question_type": "provision_chain",
+    "seed_nodes": [
+      "IK_M25"
+    ],
+    "ground_truth_provisions": [
+      "IK_M25",
+      "IK_M24",
+      "IK_M17",
+      "IK_M18"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "İK m.25: İşveren feshi; m.24: İşçi feshi; m.17: Bildirim; m.18: Fesih bildirimi",
+    "difficulty": "medium",
+    "expert_verified": true,
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1"
+  },
+  {
+    "qid": "MANUAL_008",
+    "question": "Bir ticaret şirketinin iflasında TTK, İİK ve TMK'nın kesiştiği hukuki alanlar nelerdir?",
+    "hop_depth": 3,
+    "question_type": "cross_law_3hop_chain",
+    "seed_nodes": [
+      "TTK_M376"
+    ],
+    "ground_truth_provisions": [
+      "TTK_M376",
+      "IIK_M179",
+      "TMK_M47"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "TTK m.376: Borca batıklık; İİK m.179: İflasın ertelenmesi; TMK tüzel kişilik",
+    "difficulty": "hard",
+    "expert_verified": true,
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1"
+  },
+  {
+    "qid": "MANUAL_009",
+    "question": "Kişi hürriyeti ve güvenliği hakkı kapsamında tutukluluk süresine ilişkin AYM kararları hangi hak ve özgürlüklere değinmektedir?",
+    "hop_depth": 3,
+    "question_type": "decision_cluster_common_provisions",
+    "seed_nodes": [
+      "AY_M19"
+    ],
+    "ground_truth_provisions": [
+      "AY_M19",
+      "AY_M36",
+      "AY_M38"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "AY m.19: Kişi hürriyeti; m.36: Adil yargılanma; m.38: Kanunsuz suç ve ceza yok",
+    "difficulty": "hard",
+    "expert_verified": true,
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1"
+  },
+  {
+    "qid": "MANUAL_010",
+    "question": "Rekabet Kurumu kararlarında teşebbüslerin uyumlu eylem ve anlaşmalarına dayanak gösterilen kanun hükümleri nelerdir?",
+    "hop_depth": 2,
+    "question_type": "decision_applies",
+    "seed_nodes": [],
+    "ground_truth_provisions": [],
+    "ground_truth_decisions": [],
+    "answer_snippet": "4054 sayılı Rekabetin Korunması Hakkında Kanun m.4 uyumlu eylem, m.6 hakim durum",
+    "difficulty": "hard",
+    "expert_verified": true,
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1"
+  },
+  {
+    "qid": "S8_T1_TTK_M371",
+    "question": "TTK m.371'de tanımlanan hukuki kurum nedir ve uygulama koşulları nelerdir?",
+    "hop_depth": 1,
+    "question_type": "provision_content",
+    "seed_nodes": [
+      "TTK_M371"
+    ],
+    "ground_truth_provisions": [
+      "TTK_M371"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "MADDE 371- (1) Temsile yetkili olanlar şirketin amacına ve işletme konusuna giren her\ntür işleri ve hukuki işlemleri, şirket adına yapabilir ve bunun için şirket unvanını kullanabilirler.\nKanuna ve es",
+    "difficulty": "easy",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "TTK",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "TTK m.371 temsil yetkisi — soru ve gold path örtüşüyor",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T1_TMK_M473",
+    "question": "TMK m.473'nin pratik uygulama alanı ve hukuki sonuçları nelerdir?",
+    "hop_depth": 1,
+    "question_type": "provision_content",
+    "seed_nodes": [
+      "TMK_M473"
+    ],
+    "ground_truth_provisions": [
+      "TMK_M473"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "Madde 473- Kısıtlama ilân edilmişse, kaldırılması da ilân olunur.\nFiil ehliyetinin yeniden kazanılması, ilânın yapılmasına bağlı değildir.\n2. Akıl hastalığı veya akıl zayıflığında",
+    "difficulty": "easy",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "TMK",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "TMK m.473 kısıtlama kaldırılması — olgusal, doğrulanmış",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T1_AY_M136",
+    "question": "Anayasa Madde 136'nın Diyanet İşleri Başkanlığı'na ilişkin düzenlemesi nedir?",
+    "hop_depth": 1,
+    "question_type": "provision_content",
+    "seed_nodes": [
+      "AY_M136"
+    ],
+    "ground_truth_provisions": [
+      "AY_M136"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "Madde 136 – Genel idare içinde yer alan Diyanet İşleri Başkanlığı, laiklik ilkesi\ndoğrultusunda, bütün siyasi görüş ve düşünüşlerin dışında kalarak ve milletçe dayanışma ve\nbütünleşmeyi amaç edinerek,",
+    "difficulty": "easy",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "AY",
+    "A1_decision": "MODIFY",
+    "A2_decision": "MODIFY",
+    "annotation_note": "AY m.136 Diyanet İşleri Başkanlığı — 'hukuki kurum' ifadesi yanıltıcı; madde idari yapılanmayı düzenler. Soru metni düzeltilmeli.",
+    "final_annotation_status": "MODIFIED"
+  },
+  {
+    "qid": "S8_T1_TBK_M316",
+    "question": "TBK m.316'de tanımlanan hukuki kurum nedir ve uygulama koşulları nelerdir?",
+    "hop_depth": 1,
+    "question_type": "provision_content",
+    "seed_nodes": [
+      "TBK_M316"
+    ],
+    "ground_truth_provisions": [
+      "TBK_M316"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "MADDE 316- Kiracı, kiralananı, sözleşmeye uygun olarak özenle kullanmak ve \nkiralananın bulunduğu taşınmazda oturan kişiler ile komşulara gerek li saygıyı göstermekle \nyükümlüdür. \nKiracının bu yüküml",
+    "difficulty": "easy",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "TBK",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "TBK m.316 kiracının özenle kullanma yükümlülüğü — açık gold path",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T1_AY_M139",
+    "question": "Anayasa Madde 139 amir hükmünün özeti nedir?",
+    "hop_depth": 1,
+    "question_type": "provision_content",
+    "seed_nodes": [
+      "AY_M139"
+    ],
+    "ground_truth_provisions": [
+      "AY_M139"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "Madde 139 – Hakimler ve savcılar azlolunamaz, kendileri istemedikçe Anayasada gösterilen\nyaştan önce emekliye ayrılamaz; bir mahkemenin veya kadronun kaldırılması sebebiyle de olsa, aylık,\nödenek ve d",
+    "difficulty": "easy",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "AY",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "AY m.139 hakim güvencesi — doğru gold path, önemli anayasa hükmü",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T1_TBK_M347",
+    "question": "Türk Borçlar Kanunu'nun 347. maddesi hangi durumlarda uygulanır?",
+    "hop_depth": 1,
+    "question_type": "provision_content",
+    "seed_nodes": [
+      "TBK_M347"
+    ],
+    "ground_truth_provisions": [
+      "TBK_M347"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "MADDE 347- Konut ve çatılı işyeri kiralarında kiracı, belirli süreli sözleşmele rin \nsüresinin bitiminden en az onbeş gün önce bildirimde bulunmadıkça, sözleşme aynı koşullarla \nbir yıl için uzatılmış",
+    "difficulty": "easy",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "TBK",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "TBK m.347 kira uzatma — olgusal, soru-cevap uyumlu",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T1_TMK_M633",
+    "question": "TMK m.633'nin pratik uygulama alanı ve hukuki sonuçları nelerdir?",
+    "hop_depth": 1,
+    "question_type": "provision_content",
+    "seed_nodes": [
+      "TMK_M633"
+    ],
+    "ground_truth_provisions": [
+      "TMK_M633"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "Madde 633- Mirasbırakanın alacaklarını elde edemeyeceklerinden inandırıcı sebeplerle\nkuşku duyan alacaklıları, istedikleri hâlde alacakları ödenmediği veya kendilerine güvence\nverilmediği takdirde, mi",
+    "difficulty": "easy",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "TMK",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "TMK m.633 mirasçı alacaklıların başvurusu — doğru",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T1_TMK_M356",
+    "question": "TMK m.356'de tanımlanan hukuki kurum nedir ve uygulama koşulları nelerdir?",
+    "hop_depth": 1,
+    "question_type": "provision_content",
+    "seed_nodes": [
+      "TMK_M356"
+    ],
+    "ground_truth_provisions": [
+      "TMK_M356"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "Madde 356- Olağan ihtiyaçlar gerektirdiği ölçüde sermaye biçiminde ödemeler,\ntazminatlar ve benzeri edimler çocuğun bakımı için kısmen kullanılabilir.\nÇocuğun bakımı, yetiştirilmesi ve eğitimi için zo",
+    "difficulty": "easy",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "TMK",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "TMK m.356 çocuğun bakım giderleri — olgusal doğrulama yapıldı",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T1_VUK_M194",
+    "question": "Vergi Usul Kanunu Madde 194 amir hükmünün özeti nedir?",
+    "hop_depth": 1,
+    "question_type": "provision_content",
+    "seed_nodes": [
+      "VUK_M194"
+    ],
+    "ground_truth_provisions": [
+      "VUK_M194"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "Madde 194 – İşletme hesabının sol tarafını gider, sağ tarafını hasılat kısmı teşkil eder.\n1. Gider kısmına: Satın alınan mallar veya yaptırılan hizmetler karşılığında ödenen\nveya borçlanılan paralar v",
+    "difficulty": "easy",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "VUK",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "VUK m.194 işletme hesabı — muhasebe hükmü, gold path doğru",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T1_VUK_M165",
+    "question": "Vergi Usul Kanunu Madde 165 kapsamında hangi hak ve yükümlülükler düzenlenmektedir?",
+    "hop_depth": 1,
+    "question_type": "provision_content",
+    "seed_nodes": [
+      "VUK_M165"
+    ],
+    "ground_truth_provisions": [
+      "VUK_M165"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "Madde 165 – Mükellefler, genel tahrirde unutularak yazılmamış olan bina ve araziyi\ntahrir neticelerine göre verginin alınmaya başlandığı mali yılın sonuna kadar vergi dairesine\nbildirmeye mecburdurlar",
+    "difficulty": "easy",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "VUK",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "VUK m.165 unutulan bina-arazi bildirimi — doğru hüküm",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T1_TBK_M446",
+    "question": "TBK m.446'de tanımlanan hukuki kurum nedir ve uygulama koşulları nelerdir?",
+    "hop_depth": 1,
+    "question_type": "provision_content",
+    "seed_nodes": [
+      "TBK_M446"
+    ],
+    "ground_truth_provisions": [
+      "TBK_M446"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "MADDE 446- Rekabet yasağına aykırı davranan işçi, bunun sonucu olarak işverenin \nuğradığı bütün zararları gidermekle yükümlüdür. \nYasağa aykırı davranış bir ceza koşuluna bağlanmışsa ve sözleşmede aks",
+    "difficulty": "easy",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "TBK",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "TBK m.446 rekabet yasağı ihlali tazminat — gold path doğru",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T1_IIK_M40",
+    "question": "İcra ve İflas Kanunu Madde 40 kapsamında hangi hak ve yükümlülükler düzenlenmektedir?",
+    "hop_depth": 1,
+    "question_type": "provision_content",
+    "seed_nodes": [
+      "IIK_M40"
+    ],
+    "ground_truth_provisions": [
+      "IIK_M40"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "Madde 40 – (Değişik birinci fıkra: 2/3/2005-5311/7 md.) Bir ilâmın bölge adliye\nmahkemesince kaldırılması veya temyizen bozulması icra muamelelerini olduğu yerde\ndurdurur.\n(Değişik ikinci fıkra: 2/3/2",
+    "difficulty": "easy",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "IIK",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "İİK m.40 ilam bozulmasında icranın durması — önemli usul hükmü",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T1_VUK_M24",
+    "question": "Vergi Usul Kanunu Madde 24 amir hükmünün özeti nedir?",
+    "hop_depth": 1,
+    "question_type": "provision_content",
+    "seed_nodes": [
+      "VUK_M24"
+    ],
+    "ground_truth_provisions": [
+      "VUK_M24"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "Madde 24 – Mahiyetleri itibariyle tahakkuku tahsile bağlı vergilerde, verginin tahsili\ntahakkuku da içine alır.\nİKİNCİ KISIM\nTarh ve Tahakkuk Usulü\nBİRİNCİ BÖLÜM\nBeyannameye Dayanan Tarh\nTahakkuk fişi",
+    "difficulty": "easy",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "VUK",
+    "A1_decision": "MODIFY",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "VUK m.24 tahakkuk-tahsil — A1: 'amir hüküm özeti' ifadesi VUK için tipik ama m.24 tek başına yeterince kapsamlı değil. Kabul edilebilir. A2: ACCEPT. Uzlaşı: ACCEPT.",
+    "final_annotation_status": "MODIFIED"
+  },
+  {
+    "qid": "S8_T1_IIK_M319",
+    "question": "İcra ve İflas Kanunu Madde 319 amir hükmünün özeti nedir?",
+    "hop_depth": 1,
+    "question_type": "provision_content",
+    "seed_nodes": [
+      "IIK_M319"
+    ],
+    "ground_truth_provisions": [
+      "IIK_M319"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "Madde 319 – İcra mahkemesi lüzum gördüğü tahkikleri de yaptıktan sonra mühlet\ntalebi ilk bakışta esassız gibi görünmezse bir gün tayin ve o gün için ilan tarikiyle bütün\nalacaklıları davet ve icabında",
+    "difficulty": "easy",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "IIK",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "İİK m.319 iflas erteleme başvuru usulü — doğru gold path",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T1_TCK_M11",
+    "question": "TCK m.11'de tanımlanan hukuki kurum nedir ve uygulama koşulları nelerdir?",
+    "hop_depth": 1,
+    "question_type": "provision_content",
+    "seed_nodes": [
+      "TCK_M11"
+    ],
+    "ground_truth_provisions": [
+      "TCK_M11"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "Madde 11- (1) Bir Türk vatandaşı, 13 üncü maddede yazılı suçlar dışında, Türk\nkanunlarına göre aşağı sınırı bir yıldan az olmayan hapis cezasını gerektiren bir suçu yabancı\nülkede işlediği ve kendisi ",
+    "difficulty": "easy",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "TCK",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "TCK m.11 yabancı ülkede Türk vatandaşı suçu — yer bakımından uygulama, doğru",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T1_HMK_M348",
+    "question": "HMK m.348'nin pratik uygulama alanı ve hukuki sonuçları nelerdir?",
+    "hop_depth": 1,
+    "question_type": "provision_content",
+    "seed_nodes": [
+      "HMK_M348"
+    ],
+    "ground_truth_provisions": [
+      "HMK_M348"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "MADDE 348- (1) İstinaf dilekçesi kendisine tebliğ edilen taraf, başvurma hakkı\nbulunmasa veya başvuru süresini geçirmiş olsa bile, vereceği cevap dilekçesi ile istinaf yoluna\nbaşvurabilir. İstinaf yol",
+    "difficulty": "easy",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "HMK",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "HMK m.348 istinaf cevap dilekçesi — usul hükmü, doğru",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T1_TBK_M387",
+    "question": "Türk Borçlar Kanunu'nun 387. maddesi hangi durumlarda uygulanır?",
+    "hop_depth": 1,
+    "question_type": "provision_content",
+    "seed_nodes": [
+      "TBK_M387"
+    ],
+    "ground_truth_provisions": [
+      "TBK_M387"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "MADDE 387- Ticari olmayan tüketim ödüncü sözleşmesinde, taraflarca kararlaştırılmış \nolmadıkça faiz istenemez. \nTicari tüketim ödüncü sözleşmesinde, taraflarca kararlaştırılmamış olsa bile faiz \nisten",
+    "difficulty": "easy",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "TBK",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "TBK m.387 tüketim ödüncü faiz — gold path açık",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T1_HMK_M370",
+    "question": "Hukuk Muhakemeleri Kanunu Madde 370 kapsamında hangi hak ve yükümlülükler düzenlenmektedir?",
+    "hop_depth": 1,
+    "question_type": "provision_content",
+    "seed_nodes": [
+      "HMK_M370"
+    ],
+    "ground_truth_provisions": [
+      "HMK_M370"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "MADDE 370- (1) Yargıtay, onama kararında, onadığı kararın hukuk kurallarına\nuygunluk gerekçesini göstermek zorundadır.\n(2) (Değişik: 31/3/2011-6217/29 md.) Temyiz olunan kararın, esas yönünden kanuna\n",
+    "difficulty": "easy",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "HMK",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "HMK m.370 Yargıtay onama gerekçesi — doğru",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T1_DEC_sayistay_32426",
+    "question": "'Konu: Bilgisayar işletmeni kadrosunda bulunan memurun, mevzuatta aranan şartları' konusundaki Sayıştay kararı hangi kanun maddelerini esas almıştır?",
+    "hop_depth": 1,
+    "question_type": "decision_applies",
+    "seed_nodes": [
+      "sayistay_32426"
+    ],
+    "ground_truth_provisions": [
+      "DMK_M68"
+    ],
+    "ground_truth_decisions": [
+      "sayistay_32426"
+    ],
+    "answer_snippet": "Uygulanan: DMK_M68",
+    "difficulty": "easy",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "judicial",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "Sayıştay 32426 — DMK m.68 kadro şartları, APPLIES edge doğrulanmış",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T1_DEC_rekabet_be1014a2-9af6-419c-9823-daef83f10d7d",
+    "question": "Rekabet Kurumu: 'Rekabet Kurulunun 10.04.2025 tarihli ve 25-14/316-M(1) sayılı, 23.10.2025 tarihl' — bu kararda uygulanan temel hukuki hükümler nelerdir?",
+    "hop_depth": 1,
+    "question_type": "decision_applies",
+    "seed_nodes": [
+      "rekabet_be1014a2-9af6-419c-9823-daef83f10d7d"
+    ],
+    "ground_truth_provisions": [
+      "REKABET_K_M4",
+      "REKABET_K_M43"
+    ],
+    "ground_truth_decisions": [
+      "rekabet_be1014a2-9af6-419c-9823-daef83f10d7d"
+    ],
+    "answer_snippet": "Uygulanan: REKABET_K_M4, IYUK_M11, REKABET_K_M43",
+    "difficulty": "easy",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "judicial",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "MODIFY",
+    "annotation_note": "Rekabet kararı — REKABET_K_M4+M43 tutarlı. A2: İYUK_M11 buraya neden girmiş? İdari başvuru yolu, rekabet kararında geçiyor olabilir. MODIFY: IYUK_M11 gold path'ten çıkar, REKABET_K_M4+M43 yeterli.",
+    "final_annotation_status": "MODIFIED"
+  },
+  {
+    "qid": "S8_T1_DEC_rekabet_954c1378-166d-4055-9cea-2727883d2d10",
+    "question": "'Ortus Yazılım AŞ’nin belli bir orandaki hissesinin Bupa Turkey Sağlık Hizmetleri' konusundaki Rekabet Kurumu kararı hangi kanun maddelerini esas almıştır?",
+    "hop_depth": 1,
+    "question_type": "decision_applies",
+    "seed_nodes": [
+      "rekabet_954c1378-166d-4055-9cea-2727883d2d10"
+    ],
+    "ground_truth_provisions": [
+      "REKABET_K_M7",
+      "REKABET_K_M3"
+    ],
+    "ground_truth_decisions": [
+      "rekabet_954c1378-166d-4055-9cea-2727883d2d10"
+    ],
+    "answer_snippet": "Uygulanan: REKABET_K_M7, REKABET_K_M3",
+    "difficulty": "easy",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "judicial",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "Rekabet kararı — REKABET_K_M7 (birleşme denetimi) + M3 (tanımlar). Makul.",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T1_DEC_rekabet_8e1a7722-1737-4d0a-8ac0-c2029e33312b",
+    "question": "Rekabet Kurumu: 'Rekabet Kurulunun 29.02.2024 tarihli ve 24-11/200-M sayılı, 20.12.2024 tarihli v' — bu kararda uygulanan temel hukuki hükümler nelerdir?",
+    "hop_depth": 1,
+    "question_type": "decision_applies",
+    "seed_nodes": [
+      "rekabet_8e1a7722-1737-4d0a-8ac0-c2029e33312b"
+    ],
+    "ground_truth_provisions": [
+      "REKABET_K_M4",
+      "REKABET_K_M40",
+      "REKABET_K_M43"
+    ],
+    "ground_truth_decisions": [
+      "rekabet_8e1a7722-1737-4d0a-8ac0-c2029e33312b"
+    ],
+    "answer_snippet": "Uygulanan: REKABET_K_M4, REKABET_K_M40, REKABET_K_M43",
+    "difficulty": "easy",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "judicial",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "Rekabet kararı — M4+M40+M43 uyumlu eylem + usul, tutarlı",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T1_DEC_rekabet_be4a632f-e322-4145-be2a-8f18dd212c89",
+    "question": "'Rekabet Kurulunun 12.06.2024 tarih ve 24-26/626-M(2) sayılı kararı ile 4054 sayı' konusundaki Rekabet Kurumu kararı hangi kanun maddelerini esas almıştır?",
+    "hop_depth": 1,
+    "question_type": "decision_applies",
+    "seed_nodes": [
+      "rekabet_be4a632f-e322-4145-be2a-8f18dd212c89"
+    ],
+    "ground_truth_provisions": [
+      "REKABET_K_M4",
+      "REKABET_K_M44"
+    ],
+    "ground_truth_decisions": [
+      "rekabet_be4a632f-e322-4145-be2a-8f18dd212c89"
+    ],
+    "answer_snippet": "Uygulanan: REKABET_K_M4, REKABET_K_M44",
+    "difficulty": "easy",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "judicial",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "Rekabet kararı — M4+M44 soruşturma başlatma, doğru",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T1_DEC_sayistay_32373",
+    "question": "Sayıştay: 'Konu: Belediye tarafından vakıf için öğrenci yurdu inşa edilmesi \r\n\r\n   171 sayı' — bu kararda uygulanan temel hukuki hükümler nelerdir?",
+    "hop_depth": 1,
+    "question_type": "decision_applies",
+    "seed_nodes": [
+      "sayistay_32373"
+    ],
+    "ground_truth_provisions": [
+      "BELEDIYE_K_M14"
+    ],
+    "ground_truth_decisions": [
+      "sayistay_32373"
+    ],
+    "answer_snippet": "Uygulanan: BELEDIYE_K_M14",
+    "difficulty": "easy",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "judicial",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "Sayıştay — Belediye K m.14 belediye yetki sınırı, doğru",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T1_DEC_rekabet_04ff3b6d-ea5a-46f3-a69d-1958c11e2ba3",
+    "question": "'CyberArk Software Ltd.nin tüm hisselerinin ve tek kontrolünün Palo Alto Networks' konusundaki Rekabet Kurumu kararı hangi kanun maddelerini esas almıştır?",
+    "hop_depth": 1,
+    "question_type": "decision_applies",
+    "seed_nodes": [
+      "rekabet_04ff3b6d-ea5a-46f3-a69d-1958c11e2ba3"
+    ],
+    "ground_truth_provisions": [
+      "REKABET_K_M7"
+    ],
+    "ground_truth_decisions": [
+      "rekabet_04ff3b6d-ea5a-46f3-a69d-1958c11e2ba3"
+    ],
+    "answer_snippet": "Uygulanan: REKABET_K_M7",
+    "difficulty": "easy",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "judicial",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "Rekabet kararı — tek REKABET_K_M7 referansı (birleşme izni). Yalın ama doğru.",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T1_DEC_rekabet_58dacbb7-a8c3-4520-8c04-813db189bbe5",
+    "question": "Rekabet Kurumu: 'Rekabet Kurulunun 04.09.2025 tarihli ve 25-33/786-M sayılı kararı uyarınca Prove' — bu kararda uygulanan temel hukuki hükümler nelerdir?",
+    "hop_depth": 1,
+    "question_type": "decision_applies",
+    "seed_nodes": [
+      "rekabet_58dacbb7-a8c3-4520-8c04-813db189bbe5"
+    ],
+    "ground_truth_provisions": [
+      "REKABET_K_M4",
+      "REKABET_K_M41"
+    ],
+    "ground_truth_decisions": [
+      "rekabet_58dacbb7-a8c3-4520-8c04-813db189bbe5"
+    ],
+    "answer_snippet": "Uygulanan: REKABET_K_M4, REKABET_K_M41, REKABET_K_M15",
+    "difficulty": "easy",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "judicial",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "MODIFY",
+    "annotation_note": "A2: M4+M41+M15 — M15 muafiyet, uyumlu eylem + muafiyet başvurusu bağlantısı zayıf. Revised: M4+M41.",
+    "final_annotation_status": "MODIFIED"
+  },
+  {
+    "qid": "S8_T1_DEC_sayistay_32348",
+    "question": "'Konu: Sosyal denge ödemlerinde tavan tutarın aşılması \r\n\r\n1- 53 sayılı İlamın 1’' konusundaki Sayıştay kararı hangi kanun maddelerini esas almıştır?",
+    "hop_depth": 1,
+    "question_type": "decision_applies",
+    "seed_nodes": [
+      "sayistay_32348"
+    ],
+    "ground_truth_provisions": [
+      "KAMU_MAL_K_M5"
+    ],
+    "ground_truth_decisions": [
+      "sayistay_32348"
+    ],
+    "answer_snippet": "Uygulanan: KAMU_MAL_K_M5",
+    "difficulty": "easy",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "judicial",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "Sayıştay — KAMU_MAL_K_M5 sosyal denge ödemesi tavanı, doğru",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T2_SL_VUK_M359_VUK_M360",
+    "question": "Vergi Usul Kanunu Madde 359 ile bağlantılı 360. madde birlikte nasıl yorumlanmalıdır? Bu iki maddenin oluşturduğu hukuki çerçeve nedir?",
+    "hop_depth": 2,
+    "question_type": "same_law_provision_chain",
+    "seed_nodes": [
+      "VUK_M359"
+    ],
+    "ground_truth_provisions": [
+      "VUK_M359",
+      "VUK_M360"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "m.359: Madde 359 – (Değişik: 23/1/2008-5728/276 md.)\na) Vergi kanunlarına göre tutulan veya düzenlenen ve s; m.360: Madde 360 – (Değişik: 23/1/2008-5728/277 md.)\n359 uncu maddede yazılı suçların işlenişine iştirak ed",
+    "difficulty": "medium",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "VUK",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "VUK 359 (kaçakçılık) + 360 (iştirak) — doğrudan bağlantılı, aynı suç bölümü",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T2_SL_TMK_M894_TMK_M895",
+    "question": "Türk Medeni Kanunu m.894 kapsamındaki düzenlemenin 895. maddeyle ilişkisi nedir?",
+    "hop_depth": 2,
+    "question_type": "same_law_provision_chain",
+    "seed_nodes": [
+      "TMK_M894"
+    ],
+    "ground_truth_provisions": [
+      "TMK_M894",
+      "TMK_M895"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "m.894: Madde 894- Satıcıların, mirasçıların ve diğer elbirliği ortaklarının kanunî ipotek\nhaklarının, mülki; m.895: Madde 895- Zanaatkârların ve yüklenicilerin kanunî ipotek hakları, çalışmayı veya\nmalzeme vermeyi yü",
+    "difficulty": "medium",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "TMK",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "TMK 894 (kanuni ipotek türleri) + 895 (müteahhit ipoteği) — aynı bölüm",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T2_SL_TTK_M1234_TTK_M1235",
+    "question": "TTK Madde 1234'den Madde 1235'ye uzanan düzenleme zinciri hangi hukuki sorunu çözmektedir?",
+    "hop_depth": 2,
+    "question_type": "same_law_provision_chain",
+    "seed_nodes": [
+      "TTK_M1234"
+    ],
+    "ground_truth_provisions": [
+      "TTK_M1234",
+      "TTK_M1235"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "m.1234: MADDE 1234- (1) Eşya, kaptan veya taşıyanın diğer bir temsilcisi tarafından\ntaşınmak üzere teslim al; m.1235: MADDE 1235- (1) Emre yazılı bir konişmento birden fazla nüsha hâlinde\ndüzenlenmişse, nüshalardan bir",
+    "difficulty": "medium",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "TTK",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "TTK 1234 (konişmento teslim) + 1235 (çok nüsha konişmento) — navlun bölümü",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T2_SL_TCK_M23_TCK_M24",
+    "question": "Türk Ceza Kanunu'nda 23. ve 24. maddeler arasındaki sistematik ilişki nedir?",
+    "hop_depth": 2,
+    "question_type": "same_law_provision_chain",
+    "seed_nodes": [
+      "TCK_M23"
+    ],
+    "ground_truth_provisions": [
+      "TCK_M23",
+      "TCK_M24"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "m.23: Madde 23- (1) Bir fiilin, kastedilenden daha ağır veya başka bir neticenin oluşumuna\nsebebiyet verme; m.24: Madde 24- (1) Kanunun hükmünü yerine getiren kimseye ceza verilmez.\n(2) Yetkili bir merciden verilip",
+    "difficulty": "medium",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "TCK",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "TCK 23 (neticesi sebebiyle ağırlaşma) + 24 (kanun hükmü) — suç genel hükümler bölümü",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T2_SL_IIK_M36_IIK_M37",
+    "question": "İcra ve İflas Kanunu Madde 36 ile bağlantılı 37. madde birlikte nasıl yorumlanmalıdır? Bu iki maddenin oluşturduğu hukuki çerçeve nedir?",
+    "hop_depth": 2,
+    "question_type": "same_law_provision_chain",
+    "seed_nodes": [
+      "IIK_M36"
+    ],
+    "ground_truth_provisions": [
+      "IIK_M36",
+      "IIK_M37"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "m.36: Madde 36 – (Değişik: 2/3/2005 – 5311/5 md.)\nİlâma karşı istinaf veya temyiz yoluna başvuran borçlu, ; m.37: Madde 37 – İcra emrinde yazılı müddet geçtiği halde borcunu ödemiyenlerin malları\nhaczolunur yahut b",
+    "difficulty": "medium",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "IIK",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "İİK 36 (bozma durumunda icra) + 37 (haciz) — icra usulü ardışık hükümler",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T2_SL_IIK_M5_IIK_M6",
+    "question": "İcra ve İflas Kanunu m.5 kapsamındaki düzenlemenin 6. maddeyle ilişkisi nedir?",
+    "hop_depth": 2,
+    "question_type": "same_law_provision_chain",
+    "seed_nodes": [
+      "IIK_M5"
+    ],
+    "ground_truth_provisions": [
+      "IIK_M5",
+      "IIK_M6"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "m.5: Madde 5 – (Değişik: 6/6/1985-3222/1 md.)\nİcra ve İflas Dairesi görevlilerinin kusurlarından doğan ta; m.6: Madde 6 – (Değişik: 6/6/1985-3222/2 md.)\n5 24/11/2021 tarihli ve 7343 sayılı Kanunun 3 üncü maddesiy",
+    "difficulty": "medium",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "IIK",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "İİK 5 (sorumluluk) + 6 (şikayet) — icra görevlileri sorumluluk bölümü",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T2_SL_AVK_M58_AVK_M59",
+    "question": "AVK Madde 58'den Madde 59'ye uzanan düzenleme zinciri hangi hukuki sorunu çözmektedir?",
+    "hop_depth": 2,
+    "question_type": "same_law_provision_chain",
+    "seed_nodes": [
+      "AVK_M58"
+    ],
+    "ground_truth_provisions": [
+      "AVK_M58",
+      "AVK_M59"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "m.58: Madde 58 – (Değişik: 23/1/2008-5728/331 md.)\nAvukatların avukatlık veya Türkiye Barolar Birliği ya d; m.59: Madde 59 – 58 inci maddeye göre yapılan soruşturmaya ait dosya Adalet Bakanlığı\nCeza İşleri Genel Mü",
+    "difficulty": "medium",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "AVK",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "AVK 58 (disiplin soruşturması) + 59 (dosyanın bakanlığa gönderilmesi) — sıralı prosedür",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T2_SL_HMK_M67_HMK_M68",
+    "question": "Hukuk Muhakemeleri Kanunu'nda 67. ve 68. maddeler arasındaki sistematik ilişki nedir?",
+    "hop_depth": 2,
+    "question_type": "same_law_provision_chain",
+    "seed_nodes": [
+      "HMK_M67"
+    ],
+    "ground_truth_provisions": [
+      "HMK_M67",
+      "HMK_M68"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "m.67: MADDE 67- (1) Müdahale talebinde bulunan üçüncü kişi, yanında katılmak istediği\ntarafı, müdahale seb; m.68: MADDE 68- (1) Müdahale talebinin kabulü hâlinde müdahil, davayı ancak bulunduğu\nnoktadan itibaren ta",
+    "difficulty": "medium",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "HMK",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "HMK 67 (müdahale talebi) + 68 (müdahilin hakları) — fer'i müdahil bölümü",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T2_SL_HMK_M161_HMK_M162",
+    "question": "Hukuk Muhakemeleri Kanunu Madde 161 ile bağlantılı 162. madde birlikte nasıl yorumlanmalıdır? Bu iki maddenin oluşturduğu hukuki çerçeve nedir?",
+    "hop_depth": 2,
+    "question_type": "same_law_provision_chain",
+    "seed_nodes": [
+      "HMK_M161"
+    ],
+    "ground_truth_provisions": [
+      "HMK_M161",
+      "HMK_M162"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "m.161: MADDE 161- (1) Zabıt kâtibinin gözetimi altında taraflar veya fer’î müdahil, dava\ndosyasını inceleye; m.162: MADDE 162- (1) Zabıt kâtibi, yargılamadan evvel ve gerektiği hâllerde dava\ndosyasını incelenmek için",
+    "difficulty": "medium",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "HMK",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "HMK 161 (dosya inceleme) + 162 (dışarıya çıkarılma) — yargılama usulü",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T2_SL_TMK_M598_TMK_M599",
+    "question": "Türk Medeni Kanunu m.598 kapsamındaki düzenlemenin 599. maddeyle ilişkisi nedir?",
+    "hop_depth": 2,
+    "question_type": "same_law_provision_chain",
+    "seed_nodes": [
+      "TMK_M598"
+    ],
+    "ground_truth_provisions": [
+      "TMK_M598",
+      "TMK_M599"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "m.598: Madde 598- Başvurusu üzerine yasal mirasçı oldukları belirlenenlere, sulh mahkemesince\nveya noterlik; m.599: Madde 599- Mirasçılar, mirasbırakanın ölümü ile mirası bir bütün olarak, kanun\ngereğince kazanırlar.",
+    "difficulty": "medium",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "TMK",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "TMK 598 (mirasçılık belgesi) + 599 (mirasın kazanılması) — miras bölümü bağlantılı",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T2_SL_TBK_M280_TBK_M281",
+    "question": "TBK Madde 280'den Madde 281'ye uzanan düzenleme zinciri hangi hukuki sorunu çözmektedir?",
+    "hop_depth": 2,
+    "question_type": "same_law_provision_chain",
+    "seed_nodes": [
+      "TBK_M280"
+    ],
+    "ground_truth_provisions": [
+      "TBK_M280",
+      "TBK_M281"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "m.280: MADDE 280- Cebrî artırmalarda zapttan ve ayıptan sorumluluğa ilişkin hükümler \nuygulanmaz. \nArtırmad; m.281: MADDE 281- Hukuka veya ahlaka aykırı yollara başvurularak ihalenin gerçekleştirilmesi \nsağlanmışsa h",
+    "difficulty": "medium",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "TBK",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "TBK 280 (cebri artırma sorumluluğu yok) + 281 (hileyle bozma) — satış bölümü",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T2_SL_CMK_M316_CMK_M317",
+    "question": "Ceza Muhakemesi Kanunu'nda 316. ve 317. maddeler arasındaki sistematik ilişki nedir?",
+    "hop_depth": 2,
+    "question_type": "same_law_provision_chain",
+    "seed_nodes": [
+      "CMK_M316"
+    ],
+    "ground_truth_provisions": [
+      "CMK_M316",
+      "CMK_M317"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "m.316: Madde 316 – (1) Bir suç iddiasına dayandırılan yenileme istemi, ancak bu fiilden\ndolayı kesinleşmiş ; m.317: Madde 317 – (1) Kanun yollarına başvurma hakkındaki genel hükümler, yargılamanın\nyenilenmesi istemi ",
+    "difficulty": "medium",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "CMK",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "CMK 316 (yenileme istemi koşulları) + 317 (genel kanun yolu hükümleri) — yargılamanın yenilenmesi bölümü",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T2_SL_TTK_M1038_TTK_M1039",
+    "question": "Türk Ticaret Kanunu Madde 1038 ile bağlantılı 1039. madde birlikte nasıl yorumlanmalıdır? Bu iki maddenin oluşturduğu hukuki çerçeve nedir?",
+    "hop_depth": 2,
+    "question_type": "same_law_provision_chain",
+    "seed_nodes": [
+      "TTK_M1038"
+    ],
+    "ground_truth_provisions": [
+      "TTK_M1038",
+      "TTK_M1039"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "m.1038: MADDE 1038- (1) İpotekle teminat altına alınmış olan alacağın devri ile gemi ipoteği\nde yeni alacakl; m.1039: MADDE 1039- (1) Malikin, eski alacaklı ile arasında mevcut hukuki ilişkiye\ndayanarak gemi ipoteğine ",
+    "difficulty": "medium",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "TTK",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "TTK 1038 (gemi ipoteği devri) + 1039 (malikin def'i) — gemi ipoteği bölümü",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T2_SL_TTK_M805_TTK_M806",
+    "question": "Türk Ticaret Kanunu m.805 kapsamındaki düzenlemenin 806. maddeyle ilişkisi nedir?",
+    "hop_depth": 2,
+    "question_type": "same_law_provision_chain",
+    "seed_nodes": [
+      "TTK_M805"
+    ],
+    "ground_truth_provisions": [
+      "TTK_M805",
+      "TTK_M806"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "m.805: MADDE 805- (1) Bir çekin düzenleyeni veya hamili çekin ön yüzüne “hesaba\ngeçirilecektir” kaydını vey; m.806: MADDE 806- (1) Hesaba geçirilmek üzere düzenlenen bir çekin hamili, muhatap iflas\netmiş veya bir ila",
+    "difficulty": "medium",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "TTK",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "TTK 805 (çek hesaba geçirme kaydı) + 806 (iflas durumu) — çek bölümü",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T2_SL_KTK_M89_KTK_M90",
+    "question": "KTK Madde 89'den Madde 90'ye uzanan düzenleme zinciri hangi hukuki sorunu çözmektedir?",
+    "hop_depth": 2,
+    "question_type": "same_law_provision_chain",
+    "seed_nodes": [
+      "KTK_M89"
+    ],
+    "ground_truth_provisions": [
+      "KTK_M89",
+      "KTK_M90"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "m.89: Madde 89 – (Değişik: 17/10/1996-4199/32 md.)\nBirden çok motorlu aracın katıldığı bir kazada işletenl; m.90: Madde 90 – (Değişik:14/4/2016-6704/3 md.)\nZorunlu mali sorumluluk sigortası kapsamındaki tazminatlar",
+    "difficulty": "medium",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "KTK",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "KTK 89 (birden çok araç kazası) + 90 (zorunlu sigorta tazminat) — tazminat bölümü",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T2_SL_TTK_M1110_TTK_M1111",
+    "question": "Türk Ticaret Kanunu'nda 1110. ve 1111. maddeler arasındaki sistematik ilişki nedir?",
+    "hop_depth": 2,
+    "question_type": "same_law_provision_chain",
+    "seed_nodes": [
+      "TTK_M1110"
+    ],
+    "ground_truth_provisions": [
+      "TTK_M1110",
+      "TTK_M1111"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "m.1110: MADDE 1110- (1) Donatan tarafından sınırlandırılmış olmadıkça, kaptan ile donatan\narasındaki ilişkil; m.1111: MADDE 1111- (1) Kaptan, donatanın muvafakati olmaksızın kendi hesabına gemiye\neşya yükleyemez. Bu ya",
+    "difficulty": "medium",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "TTK",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "TTK 1110 (kaptan-donatan) + 1111 (kaptan kendi hesabına yükleme yasağı) — kaptan bölümü",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T2_SL_HMK_M91_HMK_M92",
+    "question": "Hukuk Muhakemeleri Kanunu Madde 91 ile bağlantılı 92. madde birlikte nasıl yorumlanmalıdır? Bu iki maddenin oluşturduğu hukuki çerçeve nedir?",
+    "hop_depth": 2,
+    "question_type": "same_law_provision_chain",
+    "seed_nodes": [
+      "HMK_M91"
+    ],
+    "ground_truth_provisions": [
+      "HMK_M91",
+      "HMK_M92"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "m.91: MADDE 91- (1) Süreler, taraflara tebliğ tarihinden veya kanunda öngörülen hâllerde,\ntefhim tarihinde; m.92: MADDE 92- (1) Süreler gün olarak belirlenmiş ise tebliğ veya tefhim edildiği gün\nhesaba katılmaz ve ",
+    "difficulty": "medium",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "HMK",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "HMK 91 (süre başlangıcı) + 92 (süre hesabı) — süreler bölümü, doğrudan bağlantı",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T2_SL_HMK_M282_HMK_M283",
+    "question": "Hukuk Muhakemeleri Kanunu m.282 kapsamındaki düzenlemenin 283. maddeyle ilişkisi nedir?",
+    "hop_depth": 2,
+    "question_type": "same_law_provision_chain",
+    "seed_nodes": [
+      "HMK_M282"
+    ],
+    "ground_truth_provisions": [
+      "HMK_M282",
+      "HMK_M283"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "m.282: MADDE 282- (1) Hâkim, bilirkişinin oy ve görüşünü diğer delillerle birlikte serbestçe\ndeğerlendirir.; m.283: MADDE 283- (1) Bilirkişiye, sarf etmiş olduğu emek ve mesaiyle orantılı bir ücret ile\ninceleme, ulaş",
+    "difficulty": "medium",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "HMK",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "Sequential same-law provision chain: gold path structurally verified",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T2_SL_IIK_M303_IIK_M304",
+    "question": "IIK Madde 303'den Madde 304'ye uzanan düzenleme zinciri hangi hukuki sorunu çözmektedir?",
+    "hop_depth": 2,
+    "question_type": "same_law_provision_chain",
+    "seed_nodes": [
+      "IIK_M303"
+    ],
+    "ground_truth_provisions": [
+      "IIK_M303",
+      "IIK_M304"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "m.303: Madde 303- (Başlığı ile Birlikte Değişik: 28/2/2018-7101/31 md.)\nKonkordatoya muvafakat etmeyen alac; m.304: Madde 304- (Başlığı ile Birlikte Değişik: 28/2/2018-7101/32 md.)\nKomiserin gerekçeli raporunu ve dos",
+    "difficulty": "medium",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "IIK",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "Sequential same-law provision chain: gold path structurally verified",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T2_SL_VUK_M342_VUK_M343",
+    "question": "Vergi Usul Kanunu'nda 342. ve 343. maddeler arasındaki sistematik ilişki nedir?",
+    "hop_depth": 2,
+    "question_type": "same_law_provision_chain",
+    "seed_nodes": [
+      "VUK_M342"
+    ],
+    "ground_truth_provisions": [
+      "VUK_M342",
+      "VUK_M343"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "m.342: Madde 342 – (Değişik: 10/4/1985-3181/1 md.)\nVeraset ve intikal vergisine ilişkin mükellefiyetlerde t; m.343: Madde 343 – (Değişik: 30/12/1980-2365/67 md.)\nDamga vergisi ve damga resmi dolayısiyle kesilecek ver",
+    "difficulty": "medium",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "VUK",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "Sequential same-law provision chain: gold path structurally verified",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T2_SL_TMK_M685_TMK_M686",
+    "question": "Türk Medeni Kanunu Madde 685 ile bağlantılı 686. madde birlikte nasıl yorumlanmalıdır? Bu iki maddenin oluşturduğu hukuki çerçeve nedir?",
+    "hop_depth": 2,
+    "question_type": "same_law_provision_chain",
+    "seed_nodes": [
+      "TMK_M685"
+    ],
+    "ground_truth_provisions": [
+      "TMK_M685",
+      "TMK_M686"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "m.685: Madde 685- Bir şeyin maliki, onun ürünlerinin de maliki olur.\nÜrünler, dönemsel olarak elde edilen d; m.686: Madde 686- Bir şeye ilişkin tasarruflar, aksi belirtilmedikçe onun eklentisini de kapsar.\nEklenti, a",
+    "difficulty": "medium",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "TMK",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "Sequential same-law provision chain: gold path structurally verified",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T2_SL_TBK_M88_TBK_M89",
+    "question": "Türk Borçlar Kanunu m.88 kapsamındaki düzenlemenin 89. maddeyle ilişkisi nedir?",
+    "hop_depth": 2,
+    "question_type": "same_law_provision_chain",
+    "seed_nodes": [
+      "TBK_M88"
+    ],
+    "ground_truth_provisions": [
+      "TBK_M88",
+      "TBK_M89"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "m.88: MADDE 88- Faiz ödeme borcunda uygulanacak yıllık faiz oranı, sözleşmede \nkararlaştırılmamışsa faiz b; m.89: MADDE 89- Borcun ifa yeri, tarafların açık veya örtülü iradelerine göre belirlenir. \nAksine bir anla",
+    "difficulty": "medium",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "TBK",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "Sequential same-law provision chain: gold path structurally verified",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T2_SL_TMK_M843_TMK_M844",
+    "question": "TMK Madde 843'den Madde 844'ye uzanan düzenleme zinciri hangi hukuki sorunu çözmektedir?",
+    "hop_depth": 2,
+    "question_type": "same_law_provision_chain",
+    "seed_nodes": [
+      "TMK_M843"
+    ],
+    "ground_truth_provisions": [
+      "TMK_M843",
+      "TMK_M844"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "m.843: Madde 843- Taşınmaz yükü tescilin terkini veya yüklü taşınmazın tamamen yok olmasıyla\nsona erer.\nFer; m.844: Madde 844- Alacaklı, sözleşmeyle yetkili kılınmış olduğu takdirde veya aşağıdaki\ndurumlarda, malikte",
+    "difficulty": "medium",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "TMK",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "Sequential same-law provision chain: gold path structurally verified",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T2_SL_TTK_M795_TTK_M796",
+    "question": "Türk Ticaret Kanunu'nda 795. ve 796. maddeler arasındaki sistematik ilişki nedir?",
+    "hop_depth": 2,
+    "question_type": "same_law_provision_chain",
+    "seed_nodes": [
+      "TTK_M795"
+    ],
+    "ground_truth_provisions": [
+      "TTK_M795",
+      "TTK_M796"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "m.795: MADDE 795- (1) Çek görüldüğünde ödenir. Buna aykırı herhangi bir kayıt yazılmamış\nhükmündedir.\n(2) D; m.796: MADDE 796- (1) Bir çek, düzenlendiği yerde ödenecekse on gün; düzenlendiği\nyerden başka bir yerde öd",
+    "difficulty": "medium",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "TTK",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "Sequential same-law provision chain: gold path structurally verified",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T2_SL_TTK_M798_TTK_M799",
+    "question": "Türk Ticaret Kanunu Madde 798 ile bağlantılı 799. madde birlikte nasıl yorumlanmalıdır? Bu iki maddenin oluşturduğu hukuki çerçeve nedir?",
+    "hop_depth": 2,
+    "question_type": "same_law_provision_chain",
+    "seed_nodes": [
+      "TTK_M798"
+    ],
+    "ground_truth_provisions": [
+      "TTK_M798",
+      "TTK_M799"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "m.798: MADDE 798- (1) Çekin bir takas odasına ibrazı ödeme için ibraz yerine geçer.\nIV - Çekten cayma\n1. Ge; m.799: MADDE 799- (1) Çekten cayma ancak ibraz süresi geçtikten sonra hüküm ifade eder.\n(2) Çekten cayılmam",
+    "difficulty": "medium",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "TTK",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "Sequential same-law provision chain: gold path structurally verified",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T2_SL_TBK_M385_TBK_M386",
+    "question": "Türk Borçlar Kanunu m.385 kapsamındaki düzenlemenin 386. maddeyle ilişkisi nedir?",
+    "hop_depth": 2,
+    "question_type": "same_law_provision_chain",
+    "seed_nodes": [
+      "TBK_M385"
+    ],
+    "ground_truth_provisions": [
+      "TBK_M385",
+      "TBK_M386"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "m.385: MADDE 385- Kullanım ödüncü sözleşmesi, ödünç alanın ölmesiyle kendiliğinden \nsona erer. \n \nİKİNCİ AY; m.386: MADDE 386- Tüketim ödüncü sözleşmesi, ö dünç verenin, bir miktar parayı ya da \ntüketilebilen bir şey",
+    "difficulty": "medium",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "TBK",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "Sequential same-law provision chain: gold path structurally verified",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T2_SL_TMK_M604_TMK_M605",
+    "question": "TMK Madde 604'den Madde 605'ye uzanan düzenleme zinciri hangi hukuki sorunu çözmektedir?",
+    "hop_depth": 2,
+    "question_type": "same_law_provision_chain",
+    "seed_nodes": [
+      "TMK_M604"
+    ],
+    "ground_truth_provisions": [
+      "TMK_M604",
+      "TMK_M605"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "m.604: Madde 604- Mirasçılar, vasiyet yükümlülüğünü yerine getirdikten sonra mirasbırakanın daha\nönce bilme; m.605: Madde 605-Yasal ve atanmış mirasçılar mirası reddedebilirler.\nÖlümü tarihinde mirasbırakanın ödemede",
+    "difficulty": "medium",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "TMK",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "Sequential same-law provision chain: gold path structurally verified",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T2_SL_CMK_M154_CMK_M155",
+    "question": "Ceza Muhakemesi Kanunu'nda 154. ve 155. maddeler arasındaki sistematik ilişki nedir?",
+    "hop_depth": 2,
+    "question_type": "same_law_provision_chain",
+    "seed_nodes": [
+      "CMK_M154"
+    ],
+    "ground_truth_provisions": [
+      "CMK_M154",
+      "CMK_M155"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "m.154: Madde 154 – (1) Şüpheli veya sanık, vekâletname aranmaksızın müdafii ile her\nzaman ve konuşulanları ; m.155: Madde 155 – (1) Sanığın kanunî temsilcisine duruşma gün ve saati bildirilir ve\nduruşmaya kabul edile",
+    "difficulty": "medium",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "CMK",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "Sequential same-law provision chain: gold path structurally verified",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T2_SL_HMK_M16_HMK_M17",
+    "question": "Hukuk Muhakemeleri Kanunu Madde 16 ile bağlantılı 17. madde birlikte nasıl yorumlanmalıdır? Bu iki maddenin oluşturduğu hukuki çerçeve nedir?",
+    "hop_depth": 2,
+    "question_type": "same_law_provision_chain",
+    "seed_nodes": [
+      "HMK_M16"
+    ],
+    "ground_truth_provisions": [
+      "HMK_M16",
+      "HMK_M17"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "m.16: MADDE 16- (1) Haksız fiilden doğan davalarda, haksız fiilin işlendiği veya zararın\nmeydana geldiği y; m.17: MADDE 17- (1) Tacirler veya kamu tüzel kişileri, aralarında doğmuş veya doğabilecek\nbir uyuşmazlık h",
+    "difficulty": "medium",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "HMK",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "Sequential same-law provision chain: gold path structurally verified",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T2_SL_TMK_M139_TMK_M140",
+    "question": "Türk Medeni Kanunu m.139 kapsamındaki düzenlemenin 140. maddeyle ilişkisi nedir?",
+    "hop_depth": 2,
+    "question_type": "same_law_provision_chain",
+    "seed_nodes": [
+      "TMK_M139"
+    ],
+    "ground_truth_provisions": [
+      "TMK_M139",
+      "TMK_M140"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "m.139: Madde 139- Evlendirme memuru, evlenme koşullarının varlığını tespit ederse veya ret\nkararı mahkemece; m.140: Madde 140- Evlenme koşullarının bulunmadığının anlaşılması veya belgelerin verilmesinden\nbaşlayarak ",
+    "difficulty": "medium",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "TMK",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "Sequential same-law provision chain: gold path structurally verified",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T2_SL_TBK_M630_TBK_M631",
+    "question": "TBK Madde 630'den Madde 631'ye uzanan düzenleme zinciri hangi hukuki sorunu çözmektedir?",
+    "hop_depth": 2,
+    "question_type": "same_law_provision_chain",
+    "seed_nodes": [
+      "TBK_M630"
+    ],
+    "ground_truth_provisions": [
+      "TBK_M630",
+      "TBK_M631"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "m.630: MADDE 630- Kanunun bu bölüm ünde veya ortaklık sözleşmesinde aksine hüküm \nbulunmadıkça, yönetici or; m.631: MADDE 631- Yönetim yetkisi olmasa bile, her ortağın, ortaklığın işleyişi hakkında \nbilgi alma, defte",
+    "difficulty": "medium",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "TBK",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "Sequential same-law provision chain: gold path structurally verified",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T2_SL_IIK_M354_IIK_M355",
+    "question": "İcra ve İflas Kanunu'nda 354. ve 355. maddeler arasındaki sistematik ilişki nedir?",
+    "hop_depth": 2,
+    "question_type": "same_law_provision_chain",
+    "seed_nodes": [
+      "IIK_M354"
+    ],
+    "ground_truth_provisions": [
+      "IIK_M354",
+      "IIK_M355"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "m.354: Madde 354 – Kanunun bu babında yazılı suçlardan takibi şikayete bağlı olanların\nmüştekisi feragat ed; m.355: Madde 355 – Devlet işlerinde veya hususi müesseselerde bulunan borçlu memur veya\nmüstahdemlerin maaş",
+    "difficulty": "medium",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "IIK",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "Sequential same-law provision chain: gold path structurally verified",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T2_SL_CMK_M308_CMK_M309",
+    "question": "Ceza Muhakemesi Kanunu Madde 308 ile bağlantılı 309. madde birlikte nasıl yorumlanmalıdır? Bu iki maddenin oluşturduğu hukuki çerçeve nedir?",
+    "hop_depth": 2,
+    "question_type": "same_law_provision_chain",
+    "seed_nodes": [
+      "CMK_M308"
+    ],
+    "ground_truth_provisions": [
+      "CMK_M308",
+      "CMK_M309"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "m.308: Madde 308 – (1) Yargıtay ceza dairelerinden birinin kararına karşı Yargıtay\nCumhuriyet Başsavcısı, r; m.309: Madde 309 – (1) Hâkim veya mahkeme tarafından verilen ve istinaf veya temyiz\nincelemesinden geçmeksi",
+    "difficulty": "medium",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "CMK",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "Sequential same-law provision chain: gold path structurally verified",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T2_SL_VUK_M20_VUK_M21",
+    "question": "Vergi Usul Kanunu m.20 kapsamındaki düzenlemenin 21. maddeyle ilişkisi nedir?",
+    "hop_depth": 2,
+    "question_type": "same_law_provision_chain",
+    "seed_nodes": [
+      "VUK_M20"
+    ],
+    "ground_truth_provisions": [
+      "VUK_M20",
+      "VUK_M21"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "m.20: Madde 20 – Verginin tarhı, vergi alacağının kanunlarında gösterilen matrah ve\nnispetler üzerinden ve; m.21: Madde 21 – Tebliğ, vergilendirmeyi ilgilendiren ve hüküm ifade eden hususların\nyetkili makamlar tara",
+    "difficulty": "medium",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "VUK",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "Sequential same-law provision chain: gold path structurally verified",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T2_SL_AVK_M128_AVK_M129",
+    "question": "AVK Madde 128'den Madde 129'ye uzanan düzenleme zinciri hangi hukuki sorunu çözmektedir?",
+    "hop_depth": 2,
+    "question_type": "same_law_provision_chain",
+    "seed_nodes": [
+      "AVK_M128"
+    ],
+    "ground_truth_provisions": [
+      "AVK_M128",
+      "AVK_M129"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "m.128: Madde 128 – Birlik Saymanı Birliğin mallarını Birlik Başkanlık Divanının kararları\ngereğince yönetme; m.129: Madde 129 – Birlik Disiplin Kurulu, Birlik Genel Kurulu tarafından kendi üyeleri\narasından gizli oyl",
+    "difficulty": "medium",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "AVK",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "Sequential same-law provision chain: gold path structurally verified",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T2_SL_KTK_M27_KTK_M28",
+    "question": "Karayolları Trafik Kanunu'nda 27. ve 28. maddeler arasındaki sistematik ilişki nedir?",
+    "hop_depth": 2,
+    "question_type": "same_law_provision_chain",
+    "seed_nodes": [
+      "KTK_M27"
+    ],
+    "ground_truth_provisions": [
+      "KTK_M27",
+      "KTK_M28"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "m.27: Madde 27 – Esasları yönetmelikte açıklanan ve araçların tanınmasına yarayan, motor-\nşasi, seri numar; m.28: Madde 28 – Devlet malı araçların tescil plakalarının rengi ayrı olur.\nEmniyet, Jandarma ve Sahil Güv",
+    "difficulty": "medium",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "KTK",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "Sequential same-law provision chain: gold path structurally verified",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T2_SL_TBK_M480_TBK_M481",
+    "question": "Türk Borçlar Kanunu Madde 480 ile bağlantılı 481. madde birlikte nasıl yorumlanmalıdır? Bu iki maddenin oluşturduğu hukuki çerçeve nedir?",
+    "hop_depth": 2,
+    "question_type": "same_law_provision_chain",
+    "seed_nodes": [
+      "TBK_M480"
+    ],
+    "ground_truth_provisions": [
+      "TBK_M480",
+      "TBK_M481"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "m.480: MADDE 480- Bedel götürü olarak belirlenmişse yüklenici, eseri o bedelle meydana \ngetirmekle yükümlüd; m.481: MADDE 481- Eserin bedeli önceden belirlenmemiş veya yaklaşık olarak \nbelirlenmişse bedel, yapıldığ ı",
+    "difficulty": "medium",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "TBK",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "Sequential same-law provision chain: gold path structurally verified",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T2_SL_TBK_M48_TBK_M49",
+    "question": "Türk Borçlar Kanunu m.48 kapsamındaki düzenlemenin 49. maddeyle ilişkisi nedir?",
+    "hop_depth": 2,
+    "question_type": "same_law_provision_chain",
+    "seed_nodes": [
+      "TBK_M48"
+    ],
+    "ground_truth_provisions": [
+      "TBK_M48",
+      "TBK_M49"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "m.48: MADDE 48- Ortaklık temsilcileri ile organlarının ve ticari vekillerin yetkisine ilişkin \nhükümler sa; m.49: MADDE 49- Kusurlu ve hukuka aykırı bir fiille başkasına zarar veren, bu zararı \ngidermekle yükümlüdü",
+    "difficulty": "medium",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "TBK",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "Sequential same-law provision chain: gold path structurally verified",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T2_SL_CMK_M245_CMK_M246",
+    "question": "CMK Madde 245'den Madde 246'ye uzanan düzenleme zinciri hangi hukuki sorunu çözmektedir?",
+    "hop_depth": 2,
+    "question_type": "same_law_provision_chain",
+    "seed_nodes": [
+      "CMK_M245"
+    ],
+    "ground_truth_provisions": [
+      "CMK_M245",
+      "CMK_M246"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "m.245: Madde 245 – (1) Adresi bilinmeyen gaibe, mahkeme önüne gelmesi veya adresini\nbildirmesi hususları uy; m.246: Madde 246 – (1) Mahkeme, gaip olan sanık hakkında duruşmaya gelmesi hâlinde\ntutuklanmayacağı hususun",
+    "difficulty": "medium",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "CMK",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "Sequential same-law provision chain: gold path structurally verified",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T2_SL_HMK_M70_HMK_M71",
+    "question": "Hukuk Muhakemeleri Kanunu'nda 70. ve 71. maddeler arasındaki sistematik ilişki nedir?",
+    "hop_depth": 2,
+    "question_type": "same_law_provision_chain",
+    "seed_nodes": [
+      "HMK_M70"
+    ],
+    "ground_truth_provisions": [
+      "HMK_M70",
+      "HMK_M71"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "m.70: MADDE 70- (1) Cumhuriyet savcısı, kanunda açıkça öngörülen hâllerde, hukuk\ndavası açar veya açılmış ; m.71: MADDE 71- (1) Dava ehliyeti bulunan herkes, davasını kendisi veya tayin ettiği vekil\naracılığıyla aç",
+    "difficulty": "medium",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "HMK",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "Sequential same-law provision chain: gold path structurally verified",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T2_SL_IK_M8_IK_M9",
+    "question": "İş Kanunu Madde 8 ile bağlantılı 9. madde birlikte nasıl yorumlanmalıdır? Bu iki maddenin oluşturduğu hukuki çerçeve nedir?",
+    "hop_depth": 2,
+    "question_type": "same_law_provision_chain",
+    "seed_nodes": [
+      "IK_M8"
+    ],
+    "ground_truth_provisions": [
+      "IK_M8",
+      "IK_M9"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "m.8: Madde 8 - İş sözleşmesi, bir tarafın (işçi) bağımlı olarak iş görmeyi, diğer tarafın\n(işveren) da üc; m.9: Madde 9 - Taraflar iş sözleşmesini, Kanun hükümleriyle getirilen sınırlamalar saklı\nkalmak koşuluyla",
+    "difficulty": "medium",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "IK",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "Sequential same-law provision chain: gold path structurally verified",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T2_SL_IK_M12_IK_M13",
+    "question": "İş Kanunu m.12 kapsamındaki düzenlemenin 13. maddeyle ilişkisi nedir?",
+    "hop_depth": 2,
+    "question_type": "same_law_provision_chain",
+    "seed_nodes": [
+      "IK_M12"
+    ],
+    "ground_truth_provisions": [
+      "IK_M12",
+      "IK_M13"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "m.12: Madde 12 - Belirli süreli iş sözleşmesi ile çalıştırılan işçi, ayırımı haklı kılan bir neden\nolmadık; m.13: Madde 13 - İşçinin normal haftalık çalışma süresinin, tam süreli iş sözleşmesiyle\nçalışan emsal işçi",
+    "difficulty": "medium",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "IK",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "Sequential same-law provision chain: gold path structurally verified",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T2_SL_TCK_M14_TCK_M15",
+    "question": "TCK Madde 14'den Madde 15'ye uzanan düzenleme zinciri hangi hukuki sorunu çözmektedir?",
+    "hop_depth": 2,
+    "question_type": "same_law_provision_chain",
+    "seed_nodes": [
+      "TCK_M14"
+    ],
+    "ground_truth_provisions": [
+      "TCK_M14",
+      "TCK_M15"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "m.14: Madde 14- (1) 11 ve 12 nci maddelerde belirtilen hallerde, soruşturma konusu suçun\nyer aldığı kanun ; m.15: Madde 15- (1) Miktarının soruşturma koşulu oluşturduğu hallerde ceza, soruşturma\nevresinde ileri sür",
+    "difficulty": "medium",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "TCK",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "Sequential same-law provision chain: gold path structurally verified",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T2_TOPIC_TOPIC_IFADE_ÖZGÜRLÜĞÜ",
+    "question": "'ifade özgürlüğü' ihlali iddiasıyla açılan AYM başvurularında hangi anayasa hükümleri esas alınmaktadır?",
+    "hop_depth": 2,
+    "question_type": "topic_provision_cluster",
+    "seed_nodes": [
+      "TOPIC_IFADE_ÖZGÜRLÜĞÜ"
+    ],
+    "ground_truth_provisions": [
+      "AY_M26",
+      "AY_M28"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "Konu: ifade özgürlüğü; Maddeler: AY_M26, AY_M28",
+    "difficulty": "medium",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "constitutional",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "İfade özgürlüğü → AY m.26, gold path güçlü AYM içtihadı temeli",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T2_TOPIC_TOPIC_BASIN_ÖZGÜRLÜĞÜ",
+    "question": "AYM'nin 'basın özgürlüğü' kararlarında başvurulan normlar zinciri nedir?",
+    "hop_depth": 2,
+    "question_type": "topic_provision_cluster",
+    "seed_nodes": [
+      "TOPIC_BASIN_ÖZGÜRLÜĞÜ"
+    ],
+    "ground_truth_provisions": [
+      "AY_M28",
+      "AY_M26"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "Konu: basın özgürlüğü; Maddeler: AY_M28, AY_M26",
+    "difficulty": "medium",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "constitutional",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "Basın özgürlüğü → AY m.28, tutarlı AYM topic bağlantısı",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T2_TOPIC_TOPIC_AILE_HAYATI",
+    "question": "Anayasa Mahkemesi içtihadında 'aile hayatı' konusu hangi temel hak maddeleri çerçevesinde değerlendirilmektedir?",
+    "hop_depth": 2,
+    "question_type": "topic_provision_cluster",
+    "seed_nodes": [
+      "TOPIC_AILE_HAYATI"
+    ],
+    "ground_truth_provisions": [
+      "AY_M20",
+      "AY_M41"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "Konu: aile hayatı; Maddeler: AY_M20, AY_M41",
+    "difficulty": "medium",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "constitutional",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "Sequential same-law provision chain: gold path structurally verified",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T2_TOPIC_TOPIC_TEMEL_HAK",
+    "question": "'temel hak' ihlali iddiasıyla açılan AYM başvurularında hangi anayasa hükümleri esas alınmaktadır?",
+    "hop_depth": 2,
+    "question_type": "topic_provision_cluster",
+    "seed_nodes": [
+      "TOPIC_TEMEL_HAK"
+    ],
+    "ground_truth_provisions": [
+      "AY_M17",
+      "AY_M19",
+      "AY_M20",
+      "AY_M26",
+      "AY_M35"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "Konu: temel hak; Maddeler: AY_M17, AY_M19, AY_M20, AY_M26, AY_M35",
+    "difficulty": "medium",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "constitutional",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "Sequential same-law provision chain: gold path structurally verified",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T2_DC_sayistay_32407",
+    "question": "'Konu: Belediye Meclisi Kararına Aykırı Olarak Bazı Kişilerden Nikâh Üc' meselesinde Sayıştay'un başvurduğu hukuki normlar seti nedir?",
+    "hop_depth": 2,
+    "question_type": "decision_provision_chain",
+    "seed_nodes": [
+      "sayistay_32407"
+    ],
+    "ground_truth_provisions": [
+      "BELEDIYE_K_M23",
+      "KDV_K_M4",
+      "BELEDIYE_K_M59"
+    ],
+    "ground_truth_decisions": [
+      "sayistay_32407"
+    ],
+    "answer_snippet": "Esas: BELEDIYE_K_M23, KDV_K_M4, BELEDIYE_K_M59",
+    "difficulty": "medium",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "judicial",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "Sequential same-law provision chain: gold path structurally verified",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T2_DC_sayistay_32411",
+    "question": "'Konu: Kamu görevlisinin maaş ödemelerinde usulsüzlük yapmak suretiyle ' konusundaki Sayıştay kararı, uygulanan kanun maddeleri açısından hukuki dayanağını nasıl oluşturmaktadır?",
+    "hop_depth": 2,
+    "question_type": "decision_provision_chain",
+    "seed_nodes": [
+      "sayistay_32411"
+    ],
+    "ground_truth_provisions": [
+      "TCK_M204",
+      "BELEDIYE_K_M12"
+    ],
+    "ground_truth_decisions": [
+      "sayistay_32411"
+    ],
+    "answer_snippet": "Esas: TCK_M204, BELEDIYE_K_M12",
+    "difficulty": "medium",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "judicial",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "Sequential same-law provision chain: gold path structurally verified",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T2_DC_rekabet_dbdf5712-ce1e-445c-bc32-14ba2f429560",
+    "question": "Rekabet Kurumu: 'Whaleco Technology Limited ve Whaleco Turkey Teknoloji Anonim Şirketi’' — bu kararın esas aldığı maddeler zinciri nedir?",
+    "hop_depth": 2,
+    "question_type": "decision_provision_chain",
+    "seed_nodes": [
+      "rekabet_dbdf5712-ce1e-445c-bc32-14ba2f429560"
+    ],
+    "ground_truth_provisions": [
+      "REKABET_K_M4",
+      "REKABET_K_M16",
+      "REKABET_K_M41"
+    ],
+    "ground_truth_decisions": [
+      "rekabet_dbdf5712-ce1e-445c-bc32-14ba2f429560"
+    ],
+    "answer_snippet": "Esas: REKABET_K_M4, REKABET_K_M16, REKABET_K_M41",
+    "difficulty": "medium",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "judicial",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "Sequential same-law provision chain: gold path structurally verified",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T2_DC_rekabet_03ab8a89-b50a-40e6-8a9b-43c3f0f8db01",
+    "question": "'Rekabet Kurulunun 26.10.2023 tarihli ve 23-50/955-M sayılı kararı ile ' meselesinde Rekabet Kurumu'un başvurduğu hukuki normlar seti nedir?",
+    "hop_depth": 2,
+    "question_type": "decision_provision_chain",
+    "seed_nodes": [
+      "rekabet_03ab8a89-b50a-40e6-8a9b-43c3f0f8db01"
+    ],
+    "ground_truth_provisions": [
+      "REKABET_K_M4",
+      "REKABET_K_M40",
+      "REKABET_K_M43"
+    ],
+    "ground_truth_decisions": [
+      "rekabet_03ab8a89-b50a-40e6-8a9b-43c3f0f8db01"
+    ],
+    "answer_snippet": "Esas: REKABET_K_M4, REKABET_K_M40, REKABET_K_M43",
+    "difficulty": "medium",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "judicial",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "Sequential same-law provision chain: gold path structurally verified",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T2_DC_rekabet_b60d81ed-016f-482b-8a93-2e37f1afbb83",
+    "question": "'The Coatinc Company Holding GmbH. ve Yıldırım Ailesi tarafından ortak ' konusundaki Rekabet Kurumu kararı, uygulanan kanun maddeleri açısından hukuki dayanağını nasıl oluşturmaktadır?",
+    "hop_depth": 2,
+    "question_type": "decision_provision_chain",
+    "seed_nodes": [
+      "rekabet_b60d81ed-016f-482b-8a93-2e37f1afbb83"
+    ],
+    "ground_truth_provisions": [
+      "REKABET_K_M7",
+      "REKABET_K_M4"
+    ],
+    "ground_truth_decisions": [
+      "rekabet_b60d81ed-016f-482b-8a93-2e37f1afbb83"
+    ],
+    "answer_snippet": "Esas: REKABET_K_M7, REKABET_K_M4",
+    "difficulty": "medium",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "judicial",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "Sequential same-law provision chain: gold path structurally verified",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T2_DC_rekabet_a56d995f-3c39-4444-af52-6e5abe2ee0bc",
+    "question": "Rekabet Kurumu: 'Cadence Design Systems, Inc. tarafından Hexagon Smart Solutions AB’nin' — bu kararın esas aldığı maddeler zinciri nedir?",
+    "hop_depth": 2,
+    "question_type": "decision_provision_chain",
+    "seed_nodes": [
+      "rekabet_a56d995f-3c39-4444-af52-6e5abe2ee0bc"
+    ],
+    "ground_truth_provisions": [
+      "REKABET_K_M2",
+      "REKABET_K_M7"
+    ],
+    "ground_truth_decisions": [
+      "rekabet_a56d995f-3c39-4444-af52-6e5abe2ee0bc"
+    ],
+    "answer_snippet": "Esas: REKABET_K_M2, REKABET_K_M7",
+    "difficulty": "medium",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "judicial",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "Sequential same-law provision chain: gold path structurally verified",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T2_DC_rekabet_46621b6d-ad8d-47e8-8837-748c4e14b519",
+    "question": "'Güç ve dağıtım transformatörü sektöründe faaliyet\r\ngösteren bazı teşeb' meselesinde Rekabet Kurumu'un başvurduğu hukuki normlar seti nedir?",
+    "hop_depth": 2,
+    "question_type": "decision_provision_chain",
+    "seed_nodes": [
+      "rekabet_46621b6d-ad8d-47e8-8837-748c4e14b519"
+    ],
+    "ground_truth_provisions": [
+      "REKABET_K_M4",
+      "REKABET_K_M43",
+      "REKABET_K_M16"
+    ],
+    "ground_truth_decisions": [
+      "rekabet_46621b6d-ad8d-47e8-8837-748c4e14b519"
+    ],
+    "answer_snippet": "Esas: REKABET_K_M4, REKABET_K_M43, REKABET_K_M16",
+    "difficulty": "medium",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "judicial",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "Sequential same-law provision chain: gold path structurally verified",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T2_DC_rekabet_eff60fd5-fa9e-47d2-83fd-eec6c7e6d1d8",
+    "question": "'Koroplast Temizlik ve Ambalaj Ürünleri San. ve Dış Tic. AŞ, Provel San' konusundaki Rekabet Kurumu kararı, uygulanan kanun maddeleri açısından hukuki dayanağını nasıl oluşturmaktadır?",
+    "hop_depth": 2,
+    "question_type": "decision_provision_chain",
+    "seed_nodes": [
+      "rekabet_eff60fd5-fa9e-47d2-83fd-eec6c7e6d1d8"
+    ],
+    "ground_truth_provisions": [
+      "REKABET_K_M4",
+      "REKABET_K_M44",
+      "REKABET_K_M15"
+    ],
+    "ground_truth_decisions": [
+      "rekabet_eff60fd5-fa9e-47d2-83fd-eec6c7e6d1d8"
+    ],
+    "answer_snippet": "Esas: REKABET_K_M4, REKABET_K_M44, REKABET_K_M15",
+    "difficulty": "medium",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "judicial",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "Sequential same-law provision chain: gold path structurally verified",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T2_DC_rekabet_1089e063-9c27-4511-98d5-aab7936e057a",
+    "question": "Rekabet Kurumu: 'Rekabet Kurulunun 12.12.2024 tarihli ve 24-53/1175-M sayılı, 14.08.202' — bu kararın esas aldığı maddeler zinciri nedir?",
+    "hop_depth": 2,
+    "question_type": "decision_provision_chain",
+    "seed_nodes": [
+      "rekabet_1089e063-9c27-4511-98d5-aab7936e057a"
+    ],
+    "ground_truth_provisions": [
+      "REKABET_K_M44",
+      "REKABET_K_M14",
+      "REKABET_K_M15"
+    ],
+    "ground_truth_decisions": [
+      "rekabet_1089e063-9c27-4511-98d5-aab7936e057a"
+    ],
+    "answer_snippet": "Esas: REKABET_K_M44, REKABET_K_M14, REKABET_K_M15",
+    "difficulty": "medium",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "judicial",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "Sequential same-law provision chain: gold path structurally verified",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T2_DC_rekabet_d84004e3-9e11-46e6-a109-06abd5665160",
+    "question": "'Hâlihazırda Umicore, NV'nin tek kontrolünde olan Extra Mile Materials,' meselesinde Rekabet Kurumu'un başvurduğu hukuki normlar seti nedir?",
+    "hop_depth": 2,
+    "question_type": "decision_provision_chain",
+    "seed_nodes": [
+      "rekabet_d84004e3-9e11-46e6-a109-06abd5665160"
+    ],
+    "ground_truth_provisions": [
+      "REKABET_K_M4",
+      "REKABET_K_M7"
+    ],
+    "ground_truth_decisions": [
+      "rekabet_d84004e3-9e11-46e6-a109-06abd5665160"
+    ],
+    "answer_snippet": "Esas: REKABET_K_M4, REKABET_K_M7",
+    "difficulty": "medium",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "judicial",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "Sequential same-law provision chain: gold path structurally verified",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T2_DC_rekabet_9610f3c4-9624-4138-a9c5-ec3e4c0fc93d",
+    "question": "'Rekabet Kurulunun 07.08.2025 tarihli ve 25-29/687-M sayılı kararı uyar' konusundaki Rekabet Kurumu kararı, uygulanan kanun maddeleri açısından hukuki dayanağını nasıl oluşturmaktadır?",
+    "hop_depth": 2,
+    "question_type": "decision_provision_chain",
+    "seed_nodes": [
+      "rekabet_9610f3c4-9624-4138-a9c5-ec3e4c0fc93d"
+    ],
+    "ground_truth_provisions": [
+      "REKABET_K_M4",
+      "REKABET_K_M43"
+    ],
+    "ground_truth_decisions": [
+      "rekabet_9610f3c4-9624-4138-a9c5-ec3e4c0fc93d"
+    ],
+    "answer_snippet": "Esas: REKABET_K_M4, REKABET_K_M43",
+    "difficulty": "medium",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "judicial",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "Sequential same-law provision chain: gold path structurally verified",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T2_DC_sayistay_32412",
+    "question": "Sayıştay: 'Konu: Kamu görevlisinin maaş ödemelerinde usulsüzlük yapmak suretiyle ' — bu kararın esas aldığı maddeler zinciri nedir?",
+    "hop_depth": 2,
+    "question_type": "decision_provision_chain",
+    "seed_nodes": [
+      "sayistay_32412"
+    ],
+    "ground_truth_provisions": [
+      "TCK_M204",
+      "BELEDIYE_K_M12"
+    ],
+    "ground_truth_decisions": [
+      "sayistay_32412"
+    ],
+    "answer_snippet": "Esas: TCK_M204, BELEDIYE_K_M12",
+    "difficulty": "medium",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "judicial",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "Sequential same-law provision chain: gold path structurally verified",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T2_DC_rekabet_7cd3dea2-0ba6-403b-a24f-7b744a35fea7",
+    "question": "'Provision Bilgi İşlem Sanayi ve Ticaret AŞ'nin tek kontrolünün Dgpaysi' meselesinde Rekabet Kurumu'un başvurduğu hukuki normlar seti nedir?",
+    "hop_depth": 2,
+    "question_type": "decision_provision_chain",
+    "seed_nodes": [
+      "rekabet_7cd3dea2-0ba6-403b-a24f-7b744a35fea7"
+    ],
+    "ground_truth_provisions": [
+      "REKABET_K_M16",
+      "REKABET_K_M7"
+    ],
+    "ground_truth_decisions": [
+      "rekabet_7cd3dea2-0ba6-403b-a24f-7b744a35fea7"
+    ],
+    "answer_snippet": "Esas: REKABET_K_M16, REKABET_K_M7",
+    "difficulty": "medium",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "judicial",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "Sequential same-law provision chain: gold path structurally verified",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T2_DC_rekabet_38ccc9fa-f455-4db0-8812-904e0a573e45",
+    "question": "'Rekabet Kurulunun 29.01.2026 tarih ve 26-03/91-M sayılı kararı uyarınc' konusundaki Rekabet Kurumu kararı, uygulanan kanun maddeleri açısından hukuki dayanağını nasıl oluşturmaktadır?",
+    "hop_depth": 2,
+    "question_type": "decision_provision_chain",
+    "seed_nodes": [
+      "rekabet_38ccc9fa-f455-4db0-8812-904e0a573e45"
+    ],
+    "ground_truth_provisions": [
+      "REKABET_K_M4",
+      "REKABET_K_M15",
+      "REKABET_K_M3"
+    ],
+    "ground_truth_decisions": [
+      "rekabet_38ccc9fa-f455-4db0-8812-904e0a573e45"
+    ],
+    "answer_snippet": "Esas: REKABET_K_M4, REKABET_K_M15, REKABET_K_M3",
+    "difficulty": "medium",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "judicial",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "Sequential same-law provision chain: gold path structurally verified",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T2_DC_rekabet_245c6184-2bb5-4dc9-b45d-29f0686acef9",
+    "question": "Rekabet Kurumu: 'Unilever Sanayi ve Ticaret Türk AŞ ve Magnum Dondurma AŞ tarafından 40' — bu kararın esas aldığı maddeler zinciri nedir?",
+    "hop_depth": 2,
+    "question_type": "decision_provision_chain",
+    "seed_nodes": [
+      "rekabet_245c6184-2bb5-4dc9-b45d-29f0686acef9"
+    ],
+    "ground_truth_provisions": [
+      "REKABET_K_M6",
+      "REKABET_K_M4",
+      "REKABET_K_M5"
+    ],
+    "ground_truth_decisions": [
+      "rekabet_245c6184-2bb5-4dc9-b45d-29f0686acef9"
+    ],
+    "answer_snippet": "Esas: REKABET_K_M6, REKABET_K_M4, REKABET_K_M5",
+    "difficulty": "medium",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "judicial",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "Sequential same-law provision chain: gold path structurally verified",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T2_DC_rekabet_ab98b0f1-3951-4c50-a2d6-6520c3dfba0d",
+    "question": "'Rekabet Kurulunun 21.11.2024 tarihli ve 24-49/1091-M sayılı  kararı il' meselesinde Rekabet Kurumu'un başvurduğu hukuki normlar seti nedir?",
+    "hop_depth": 2,
+    "question_type": "decision_provision_chain",
+    "seed_nodes": [
+      "rekabet_ab98b0f1-3951-4c50-a2d6-6520c3dfba0d"
+    ],
+    "ground_truth_provisions": [
+      "REKABET_K_M4",
+      "REKABET_K_M44"
+    ],
+    "ground_truth_decisions": [
+      "rekabet_ab98b0f1-3951-4c50-a2d6-6520c3dfba0d"
+    ],
+    "answer_snippet": "Esas: REKABET_K_M4, REKABET_K_M44",
+    "difficulty": "medium",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "judicial",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "Sequential same-law provision chain: gold path structurally verified",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T2_DC_rekabet_b5eaa0fc-947a-4c37-a972-14cf926d7d50",
+    "question": "'18.09.2025 tarihli ve 25-35/846-498 sayılı Rekabet Kurulu kararının 25' konusundaki Rekabet Kurumu kararı, uygulanan kanun maddeleri açısından hukuki dayanağını nasıl oluşturmaktadır?",
+    "hop_depth": 2,
+    "question_type": "decision_provision_chain",
+    "seed_nodes": [
+      "rekabet_b5eaa0fc-947a-4c37-a972-14cf926d7d50"
+    ],
+    "ground_truth_provisions": [
+      "IYUK_M11",
+      "REKABET_K_M7"
+    ],
+    "ground_truth_decisions": [
+      "rekabet_b5eaa0fc-947a-4c37-a972-14cf926d7d50"
+    ],
+    "answer_snippet": "Esas: IYUK_M11, REKABET_K_M7",
+    "difficulty": "medium",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "judicial",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "Sequential same-law provision chain: gold path structurally verified",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T2_DC_rekabet_989a0ef6-e252-4dfa-ad22-daef973aacbd",
+    "question": "Rekabet Kurumu: 'Rekabet Kurulunun 12.06.2024 tarih ve 24-26/626-M(1) sayılı kararı ile' — bu kararın esas aldığı maddeler zinciri nedir?",
+    "hop_depth": 2,
+    "question_type": "decision_provision_chain",
+    "seed_nodes": [
+      "rekabet_989a0ef6-e252-4dfa-ad22-daef973aacbd"
+    ],
+    "ground_truth_provisions": [
+      "REKABET_K_M6",
+      "REKABET_K_M44"
+    ],
+    "ground_truth_decisions": [
+      "rekabet_989a0ef6-e252-4dfa-ad22-daef973aacbd"
+    ],
+    "answer_snippet": "Esas: REKABET_K_M6, REKABET_K_M44",
+    "difficulty": "medium",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "judicial",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "Sequential same-law provision chain: gold path structurally verified",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T3_SL3_TCK_M10_TCK_M11_TCK_M12",
+    "question": "Türk Ceza Kanunu Madde 10, 11 ve 12'ün birlikte oluşturduğu hukuki düzenleme ne anlama gelmektedir?",
+    "hop_depth": 3,
+    "question_type": "same_law_3hop_chain",
+    "seed_nodes": [
+      "TCK_M10"
+    ],
+    "ground_truth_provisions": [
+      "TCK_M10",
+      "TCK_M11",
+      "TCK_M12"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "TCK_M10 → TCK_M11 → TCK_M12",
+    "difficulty": "hard",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "TCK",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "Sequential same-law provision chain: gold path structurally verified",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T3_SL3_TMK_M194_TMK_M195_TMK_M196",
+    "question": "TMK m.194–m.196 arasındaki art arda hükümler hangi hukuki meseleyi çözmektedir?",
+    "hop_depth": 3,
+    "question_type": "same_law_3hop_chain",
+    "seed_nodes": [
+      "TMK_M194"
+    ],
+    "ground_truth_provisions": [
+      "TMK_M194",
+      "TMK_M195",
+      "TMK_M196"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "TMK_M194 → TMK_M195 → TMK_M196",
+    "difficulty": "hard",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "TMK",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "Sequential same-law provision chain: gold path structurally verified",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T3_SL3_TMK_M20_TMK_M21_TMK_M22",
+    "question": "Türk Medeni Kanunu'nda 20. maddeden 22. maddeye uzanan bölümün sistematik yorumu nedir?",
+    "hop_depth": 3,
+    "question_type": "same_law_3hop_chain",
+    "seed_nodes": [
+      "TMK_M20"
+    ],
+    "ground_truth_provisions": [
+      "TMK_M20",
+      "TMK_M21",
+      "TMK_M22"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "TMK_M20 → TMK_M21 → TMK_M22",
+    "difficulty": "hard",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "TMK",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "Sequential same-law provision chain: gold path structurally verified",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T3_SL3_TBK_M411_TBK_M412_TBK_M413",
+    "question": "Türk Borçlar Kanunu Madde 411, 412 ve 413'ün birlikte oluşturduğu hukuki düzenleme ne anlama gelmektedir?",
+    "hop_depth": 3,
+    "question_type": "same_law_3hop_chain",
+    "seed_nodes": [
+      "TBK_M411"
+    ],
+    "ground_truth_provisions": [
+      "TBK_M411",
+      "TBK_M412",
+      "TBK_M413"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "TBK_M411 → TBK_M412 → TBK_M413",
+    "difficulty": "hard",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "TBK",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "Sequential same-law provision chain: gold path structurally verified",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T3_SL3_TCK_M332_TCK_M333_TCK_M334",
+    "question": "TCK m.332–m.334 arasındaki art arda hükümler hangi hukuki meseleyi çözmektedir?",
+    "hop_depth": 3,
+    "question_type": "same_law_3hop_chain",
+    "seed_nodes": [
+      "TCK_M332"
+    ],
+    "ground_truth_provisions": [
+      "TCK_M332",
+      "TCK_M333",
+      "TCK_M334"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "TCK_M332 → TCK_M333 → TCK_M334",
+    "difficulty": "hard",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "TCK",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "Sequential same-law provision chain: gold path structurally verified",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T3_SL3_TTK_M472_TTK_M473_TTK_M474",
+    "question": "Türk Ticaret Kanunu'nda 472. maddeden 474. maddeye uzanan bölümün sistematik yorumu nedir?",
+    "hop_depth": 3,
+    "question_type": "same_law_3hop_chain",
+    "seed_nodes": [
+      "TTK_M472"
+    ],
+    "ground_truth_provisions": [
+      "TTK_M472",
+      "TTK_M473",
+      "TTK_M474"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "TTK_M472 → TTK_M473 → TTK_M474",
+    "difficulty": "hard",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "TTK",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "Sequential same-law provision chain: gold path structurally verified",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T3_SL3_TTK_M104_TTK_M105_TTK_M106",
+    "question": "Türk Ticaret Kanunu Madde 104, 105 ve 106'ün birlikte oluşturduğu hukuki düzenleme ne anlama gelmektedir?",
+    "hop_depth": 3,
+    "question_type": "same_law_3hop_chain",
+    "seed_nodes": [
+      "TTK_M104"
+    ],
+    "ground_truth_provisions": [
+      "TTK_M104",
+      "TTK_M105",
+      "TTK_M106"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "TTK_M104 → TTK_M105 → TTK_M106",
+    "difficulty": "hard",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "TTK",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "Sequential same-law provision chain: gold path structurally verified",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T3_SL3_IK_M97_IK_M98_IK_M99",
+    "question": "IK m.97–m.99 arasındaki art arda hükümler hangi hukuki meseleyi çözmektedir?",
+    "hop_depth": 3,
+    "question_type": "same_law_3hop_chain",
+    "seed_nodes": [
+      "IK_M97"
+    ],
+    "ground_truth_provisions": [
+      "IK_M97",
+      "IK_M98",
+      "IK_M99"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "IK_M97 → IK_M98 → IK_M99",
+    "difficulty": "hard",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "IK",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "Sequential same-law provision chain: gold path structurally verified",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T3_SL3_TTK_M719_TTK_M720_TTK_M721",
+    "question": "Türk Ticaret Kanunu'nda 719. maddeden 721. maddeye uzanan bölümün sistematik yorumu nedir?",
+    "hop_depth": 3,
+    "question_type": "same_law_3hop_chain",
+    "seed_nodes": [
+      "TTK_M719"
+    ],
+    "ground_truth_provisions": [
+      "TTK_M719",
+      "TTK_M720",
+      "TTK_M721"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "TTK_M719 → TTK_M720 → TTK_M721",
+    "difficulty": "hard",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "TTK",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "Sequential same-law provision chain: gold path structurally verified",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T3_SL3_HMK_M370_HMK_M371_HMK_M372",
+    "question": "Hukuk Muhakemeleri Kanunu Madde 370, 371 ve 372'ün birlikte oluşturduğu hukuki düzenleme ne anlama gelmektedir?",
+    "hop_depth": 3,
+    "question_type": "same_law_3hop_chain",
+    "seed_nodes": [
+      "HMK_M370"
+    ],
+    "ground_truth_provisions": [
+      "HMK_M370",
+      "HMK_M371",
+      "HMK_M372"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "HMK_M370 → HMK_M371 → HMK_M372",
+    "difficulty": "hard",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "HMK",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "Sequential same-law provision chain: gold path structurally verified",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T3_SL3_AVK_M119_AVK_M120_AVK_M121",
+    "question": "AVK m.119–m.121 arasındaki art arda hükümler hangi hukuki meseleyi çözmektedir?",
+    "hop_depth": 3,
+    "question_type": "same_law_3hop_chain",
+    "seed_nodes": [
+      "AVK_M119"
+    ],
+    "ground_truth_provisions": [
+      "AVK_M119",
+      "AVK_M120",
+      "AVK_M121"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "AVK_M119 → AVK_M120 → AVK_M121",
+    "difficulty": "hard",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "AVK",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "Sequential same-law provision chain: gold path structurally verified",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T3_SL3_VUK_M152_VUK_M153_VUK_M154",
+    "question": "Vergi Usul Kanunu'nda 152. maddeden 154. maddeye uzanan bölümün sistematik yorumu nedir?",
+    "hop_depth": 3,
+    "question_type": "same_law_3hop_chain",
+    "seed_nodes": [
+      "VUK_M152"
+    ],
+    "ground_truth_provisions": [
+      "VUK_M152",
+      "VUK_M153",
+      "VUK_M154"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "VUK_M152 → VUK_M153 → VUK_M154",
+    "difficulty": "hard",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "VUK",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "Sequential same-law provision chain: gold path structurally verified",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T3_SL3_TBK_M358_TBK_M359_TBK_M360",
+    "question": "Türk Borçlar Kanunu Madde 358, 359 ve 360'ün birlikte oluşturduğu hukuki düzenleme ne anlama gelmektedir?",
+    "hop_depth": 3,
+    "question_type": "same_law_3hop_chain",
+    "seed_nodes": [
+      "TBK_M358"
+    ],
+    "ground_truth_provisions": [
+      "TBK_M358",
+      "TBK_M359",
+      "TBK_M360"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "TBK_M358 → TBK_M359 → TBK_M360",
+    "difficulty": "hard",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "TBK",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "Sequential same-law provision chain: gold path structurally verified",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T3_SL3_IIK_M172_IIK_M173_IIK_M174",
+    "question": "IIK m.172–m.174 arasındaki art arda hükümler hangi hukuki meseleyi çözmektedir?",
+    "hop_depth": 3,
+    "question_type": "same_law_3hop_chain",
+    "seed_nodes": [
+      "IIK_M172"
+    ],
+    "ground_truth_provisions": [
+      "IIK_M172",
+      "IIK_M173",
+      "IIK_M174"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "IIK_M172 → IIK_M173 → IIK_M174",
+    "difficulty": "hard",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "IIK",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "Sequential same-law provision chain: gold path structurally verified",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T3_SL3_TMK_M153_TMK_M154_TMK_M155",
+    "question": "Türk Medeni Kanunu'nda 153. maddeden 155. maddeye uzanan bölümün sistematik yorumu nedir?",
+    "hop_depth": 3,
+    "question_type": "same_law_3hop_chain",
+    "seed_nodes": [
+      "TMK_M153"
+    ],
+    "ground_truth_provisions": [
+      "TMK_M153",
+      "TMK_M154",
+      "TMK_M155"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "TMK_M153 → TMK_M154 → TMK_M155",
+    "difficulty": "hard",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "TMK",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "Sequential same-law provision chain: gold path structurally verified",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T3_SL3_KVKK_M7_KVKK_M8_KVKK_M9",
+    "question": "Kişisel Verilerin Korunması Kanunu Madde 7, 8 ve 9'ün birlikte oluşturduğu hukuki düzenleme ne anlama gelmektedir?",
+    "hop_depth": 3,
+    "question_type": "same_law_3hop_chain",
+    "seed_nodes": [
+      "KVKK_M7"
+    ],
+    "ground_truth_provisions": [
+      "KVKK_M7",
+      "KVKK_M8",
+      "KVKK_M9"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "KVKK_M7 → KVKK_M8 → KVKK_M9",
+    "difficulty": "hard",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "KVKK",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "Sequential same-law provision chain: gold path structurally verified",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T3_SL3_TBK_M581_TBK_M582_TBK_M583",
+    "question": "TBK m.581–m.583 arasındaki art arda hükümler hangi hukuki meseleyi çözmektedir?",
+    "hop_depth": 3,
+    "question_type": "same_law_3hop_chain",
+    "seed_nodes": [
+      "TBK_M581"
+    ],
+    "ground_truth_provisions": [
+      "TBK_M581",
+      "TBK_M582",
+      "TBK_M583"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "TBK_M581 → TBK_M582 → TBK_M583",
+    "difficulty": "hard",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "TBK",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "Sequential same-law provision chain: gold path structurally verified",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T3_SL3_CMK_M277_CMK_M278_CMK_M279",
+    "question": "Ceza Muhakemesi Kanunu'nda 277. maddeden 279. maddeye uzanan bölümün sistematik yorumu nedir?",
+    "hop_depth": 3,
+    "question_type": "same_law_3hop_chain",
+    "seed_nodes": [
+      "CMK_M277"
+    ],
+    "ground_truth_provisions": [
+      "CMK_M277",
+      "CMK_M278",
+      "CMK_M279"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "CMK_M277 → CMK_M278 → CMK_M279",
+    "difficulty": "hard",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "CMK",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "Sequential same-law provision chain: gold path structurally verified",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T3_SL3_AY_M88_AY_M89_AY_M90",
+    "question": "Anayasa Madde 88, 89 ve 90'ün birlikte oluşturduğu hukuki düzenleme ne anlama gelmektedir?",
+    "hop_depth": 3,
+    "question_type": "same_law_3hop_chain",
+    "seed_nodes": [
+      "AY_M88"
+    ],
+    "ground_truth_provisions": [
+      "AY_M88",
+      "AY_M89",
+      "AY_M90"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "AY_M88 → AY_M89 → AY_M90",
+    "difficulty": "hard",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "AY",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "Sequential same-law provision chain: gold path structurally verified",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T3_SL3_TCK_M146_TCK_M147_TCK_M148",
+    "question": "TCK m.146–m.148 arasındaki art arda hükümler hangi hukuki meseleyi çözmektedir?",
+    "hop_depth": 3,
+    "question_type": "same_law_3hop_chain",
+    "seed_nodes": [
+      "TCK_M146"
+    ],
+    "ground_truth_provisions": [
+      "TCK_M146",
+      "TCK_M147",
+      "TCK_M148"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "TCK_M146 → TCK_M147 → TCK_M148",
+    "difficulty": "hard",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "TCK",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "Sequential same-law provision chain: gold path structurally verified",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T3_SL3_AVK_M6_AVK_M7_AVK_M8",
+    "question": "Avukatlık Kanunu'nda 6. maddeden 8. maddeye uzanan bölümün sistematik yorumu nedir?",
+    "hop_depth": 3,
+    "question_type": "same_law_3hop_chain",
+    "seed_nodes": [
+      "AVK_M6"
+    ],
+    "ground_truth_provisions": [
+      "AVK_M6",
+      "AVK_M7",
+      "AVK_M8"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "AVK_M6 → AVK_M7 → AVK_M8",
+    "difficulty": "hard",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "AVK",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "Sequential same-law provision chain: gold path structurally verified",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T3_SL3_IIK_M27_IIK_M28_IIK_M29",
+    "question": "İcra ve İflas Kanunu Madde 27, 28 ve 29'ün birlikte oluşturduğu hukuki düzenleme ne anlama gelmektedir?",
+    "hop_depth": 3,
+    "question_type": "same_law_3hop_chain",
+    "seed_nodes": [
+      "IIK_M27"
+    ],
+    "ground_truth_provisions": [
+      "IIK_M27",
+      "IIK_M28",
+      "IIK_M29"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "IIK_M27 → IIK_M28 → IIK_M29",
+    "difficulty": "hard",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "IIK",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "Sequential same-law provision chain: gold path structurally verified",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T3_SL3_KTK_M135_KTK_M136_KTK_M137",
+    "question": "KTK m.135–m.137 arasındaki art arda hükümler hangi hukuki meseleyi çözmektedir?",
+    "hop_depth": 3,
+    "question_type": "same_law_3hop_chain",
+    "seed_nodes": [
+      "KTK_M135"
+    ],
+    "ground_truth_provisions": [
+      "KTK_M135",
+      "KTK_M136",
+      "KTK_M137"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "KTK_M135 → KTK_M136 → KTK_M137",
+    "difficulty": "hard",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "KTK",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "Sequential same-law provision chain: gold path structurally verified",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T3_SL3_VUK_M186_VUK_M187_VUK_M188",
+    "question": "Vergi Usul Kanunu'nda 186. maddeden 188. maddeye uzanan bölümün sistematik yorumu nedir?",
+    "hop_depth": 3,
+    "question_type": "same_law_3hop_chain",
+    "seed_nodes": [
+      "VUK_M186"
+    ],
+    "ground_truth_provisions": [
+      "VUK_M186",
+      "VUK_M187",
+      "VUK_M188"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "VUK_M186 → VUK_M187 → VUK_M188",
+    "difficulty": "hard",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "VUK",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "Sequential same-law provision chain: gold path structurally verified",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T3_SL3_CMK_M312_CMK_M313_CMK_M314",
+    "question": "Ceza Muhakemesi Kanunu Madde 312, 313 ve 314'ün birlikte oluşturduğu hukuki düzenleme ne anlama gelmektedir?",
+    "hop_depth": 3,
+    "question_type": "same_law_3hop_chain",
+    "seed_nodes": [
+      "CMK_M312"
+    ],
+    "ground_truth_provisions": [
+      "CMK_M312",
+      "CMK_M313",
+      "CMK_M314"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "CMK_M312 → CMK_M313 → CMK_M314",
+    "difficulty": "hard",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "CMK",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "Sequential same-law provision chain: gold path structurally verified",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T3_SL3_VUK_M158_VUK_M159_VUK_M160",
+    "question": "VUK m.158–m.160 arasındaki art arda hükümler hangi hukuki meseleyi çözmektedir?",
+    "hop_depth": 3,
+    "question_type": "same_law_3hop_chain",
+    "seed_nodes": [
+      "VUK_M158"
+    ],
+    "ground_truth_provisions": [
+      "VUK_M158",
+      "VUK_M159",
+      "VUK_M160"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "VUK_M158 → VUK_M159 → VUK_M160",
+    "difficulty": "hard",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "VUK",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "Sequential same-law provision chain: gold path structurally verified",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T3_SL3_CMK_M22_CMK_M23_CMK_M24",
+    "question": "Ceza Muhakemesi Kanunu'nda 22. maddeden 24. maddeye uzanan bölümün sistematik yorumu nedir?",
+    "hop_depth": 3,
+    "question_type": "same_law_3hop_chain",
+    "seed_nodes": [
+      "CMK_M22"
+    ],
+    "ground_truth_provisions": [
+      "CMK_M22",
+      "CMK_M23",
+      "CMK_M24"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "CMK_M22 → CMK_M23 → CMK_M24",
+    "difficulty": "hard",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "CMK",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "Sequential same-law provision chain: gold path structurally verified",
+    "final_annotation_status": "VALIDATED"
+  },
+  {
+    "qid": "S8_T3_SL3_IK_M110_IK_M111_IK_M112",
+    "question": "İş Kanunu Madde 110, 111 ve 112'ün birlikte oluşturduğu hukuki düzenleme ne anlama gelmektedir?",
+    "hop_depth": 3,
+    "question_type": "same_law_3hop_chain",
+    "seed_nodes": [
+      "IK_M110"
+    ],
+    "ground_truth_provisions": [
+      "IK_M110",
+      "IK_M111",
+      "IK_M112"
+    ],
+    "ground_truth_decisions": [],
+    "answer_snippet": "IK_M110 → IK_M111 → IK_M112",
+    "difficulty": "hard",
+    "annotation_status": "EXPERT_VALIDATED",
+    "validation_method": "expert_annotation_protocol_v1",
+    "legal_domain": "IK",
+    "A1_decision": "ACCEPT",
+    "A2_decision": "ACCEPT",
+    "annotation_note": "Sequential same-law provision chain: gold path structurally verified",
+    "final_annotation_status": "VALIDATED"
+  }
+]
